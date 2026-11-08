@@ -1,0 +1,8 @@
+﻿model_name,points_image_only,points_location,max_points,normalized_percent_image_only,normalized_percent_location,score_gain_pp,species_correct_image_only,species_correct_location,species_gain_pp,images_improved,images_unchanged,images_worsened,species_gained,species_lost,mcnemar_exact_p_species
+GPT-6 Astra,43.0,63.5,68,63.24,93.38,30.15,17,28,36.67,14,16,0,11,0,0.001
+GPT-6.1 Sol,41.0,63.0,68,60.29,92.65,32.35,17,27,33.33,15,15,0,10,0,0.002
+Claude Opus 5.5,46.5,62.5,68,68.38,91.91,23.53,20,28,26.67,10,20,0,8,0,0.0078
+Claude Sonnet 5.5,37.5,49.0,68,55.15,72.06,16.91,15,21,20.0,9,19,2,7,1,0.0703
+GPT-6 Luna,15.5,40.0,68,22.79,58.82,36.03,6,18,40.0,17,10,3,14,2,0.0042
+Gemini 3.5 Flash-Lite,31.0,39.0,68,45.59,57.35,11.76,14,19,16.67,8,18,4,7,2,0.1797
+Claude Haiku 5.5,15.0,27.0,68,22.06,39.71,17.65,6,11,16.67,11,17,2,6,1,0.125

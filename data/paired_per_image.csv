@@ -1,0 +1,211 @@
+﻿model_name,image_id,ground_truth,image_only_identification,score_image_only,location_identification,score_location,change
+GPT-6 Astra,1,Simalia amethistina,Simalia,1.0,Simalia amethistina,2.0,improved
+GPT-6 Astra,2,Morelia spilota spilota,Morelia spilota spilota,3.0,Morelia spilota spilota,3.0,unchanged
+GPT-6 Astra,3,Agkistrodon taylori,Agkistrodon,1.0,Agkistrodon taylori,2.0,improved
+GPT-6 Astra,4,Vipera kaznakovi,Protobothrops jerdonii,0.0,Vipera kaznakovi,2.0,improved
+GPT-6 Astra,5,Corallus batesii,Corallus batesii,2.0,Corallus batesii,2.0,unchanged
+GPT-6 Astra,6,Bungarus flaviceps baluensis,Oxyrhopus formosus,0.0,Bungarus flaviceps baluensis,3.0,improved
+GPT-6 Astra,7,Hemachatus haemachatus,Naja,0.0,Hemachatus haemachatus,2.0,improved
+GPT-6 Astra,8,Nerodia fasciata confluens,Nerodia fasciata,2.0,Nerodia fasciata confluens,3.0,improved
+GPT-6 Astra,9,Sanzinia madagascariensis,Sanzinia madagascariensis,2.0,Sanzinia madagascariensis,2.0,unchanged
+GPT-6 Astra,10,Boiga melanota,Boiga dendrophila,2.0,Boiga dendrophila melanota,2.0,unchanged
+GPT-6 Astra,11,Pseudechis porphyriacus,Pseudechis porphyriacus,2.0,Pseudechis porphyriacus,2.0,unchanged
+GPT-6 Astra,12,Ptyas nigromarginata,Elaphe taeniura,0.0,Coelognathus radiatus,0.0,unchanged
+GPT-6 Astra,13,Naja samarensis,Naja nivea,0.5,Naja samarensis,2.0,improved
+GPT-6 Astra,14,Calliophis bivirgatus flaviceps,Calliophis bivirgatus,2.0,Calliophis bivirgatus flaviceps,3.0,improved
+GPT-6 Astra,15,Azemiops feae,Azemiops kharini,2.0,Azemiops kharini,2.0,unchanged
+GPT-6 Astra,16,Zamenis situla,Zamenis situla,2.0,Zamenis situla,2.0,unchanged
+GPT-6 Astra,17,Acanthophis rugosus,Acanthophis pyrrhus,0.5,Acanthophis pyrrhus,0.5,unchanged
+GPT-6 Astra,18,Thelotornis capensis,Thelotornis,1.0,Thelotornis capensis capensis,2.0,improved
+GPT-6 Astra,19,Malayopython timoriensis,Chilabothrus subflavus,0.0,Malayopython timoriensis,2.0,improved
+GPT-6 Astra,20,Thamnophis sirtalis tetrataenia,Thamnophis sirtalis tetrataenia,3.0,Thamnophis sirtalis tetrataenia,3.0,unchanged
+GPT-6 Astra,21,Aspidites ramsayi,Aspidites ramsayi,2.0,Aspidites ramsayi,2.0,unchanged
+GPT-6 Astra,22,Eryx jayakari,Eryx,1.0,Eryx jayakari,2.0,improved
+GPT-6 Astra,23,Candoia paulsoni paulsoni,Candoia,1.0,Candoia paulsoni,2.0,improved
+GPT-6 Astra,24,Leiopython albertisii,Leiopython albertisii,2.0,Leiopython albertisii,2.0,unchanged
+GPT-6 Astra,25,Thamnophis sirtalis infernalis,Thamnophis sirtalis infernalis,3.0,Thamnophis sirtalis infernalis,3.0,unchanged
+GPT-6 Astra,26,Bitis nasicornis,Bitis nasicornis,2.0,Bitis nasicornis,2.0,unchanged
+GPT-6 Astra,27,Tropidolaemus wagleri,Tropidolaemus wagleri,2.0,Tropidolaemus wagleri,2.0,unchanged
+GPT-6 Astra,28,Eunectes notaeus,Eunectes notaeus,2.0,Eunectes notaeus,2.0,unchanged
+GPT-6 Astra,29,Protobothrops flavoviridis,Morelia spilota,0.0,Protobothrops flavoviridis,2.0,improved
+GPT-6 Astra,30,Aspidelaps lubricus lubricus,Aspidelaps lubricus,2.0,Aspidelaps lubricus lubricus,3.0,improved
+GPT-6.1 Sol,1,Simalia amethistina,Simalia,1.0,Simalia amethistina,2.0,improved
+GPT-6.1 Sol,2,Morelia spilota spilota,Morelia spilota spilota,3.0,Morelia spilota spilota,3.0,unchanged
+GPT-6.1 Sol,3,Agkistrodon taylori,Agkistrodon taylori,2.0,Agkistrodon taylori,2.0,unchanged
+GPT-6.1 Sol,4,Vipera kaznakovi,Protobothrops jerdonii,0.0,Vipera kaznakovi,2.0,improved
+GPT-6.1 Sol,5,Corallus batesii,Corallus caninus,0.5,Corallus batesii,2.0,improved
+GPT-6.1 Sol,6,Bungarus flaviceps baluensis,Oxyrhopus formosus,0.0,Bungarus flaviceps baluensis,3.0,improved
+GPT-6.1 Sol,7,Hemachatus haemachatus,Naja,0.0,Hemachatus haemachatus,2.0,improved
+GPT-6.1 Sol,8,Nerodia fasciata confluens,Nerodia fasciata,2.0,Nerodia fasciata confluens,3.0,improved
+GPT-6.1 Sol,9,Sanzinia madagascariensis,Sanzinia madagascariensis,2.0,Sanzinia madagascariensis,2.0,unchanged
+GPT-6.1 Sol,10,Boiga melanota,Boiga dendrophila,2.0,Boiga dendrophila melanota,2.0,unchanged
+GPT-6.1 Sol,11,Pseudechis porphyriacus,Pseudechis porphyriacus,2.0,Pseudechis porphyriacus,2.0,unchanged
+GPT-6.1 Sol,12,Ptyas nigromarginata,Ptyas nigromarginata,2.0,Ptyas nigromarginata,2.0,unchanged
+GPT-6.1 Sol,13,Naja samarensis,Naja,1.0,Naja samarensis,2.0,improved
+GPT-6.1 Sol,14,Calliophis bivirgatus flaviceps,Calliophis bivirgatus,2.0,Calliophis bivirgatus flaviceps,3.0,improved
+GPT-6.1 Sol,15,Azemiops feae,Azemiops kharini,2.0,Azemiops kharini,2.0,unchanged
+GPT-6.1 Sol,16,Zamenis situla,Zamenis leopardinus,0.0,Zamenis situla,2.0,improved
+GPT-6.1 Sol,17,Acanthophis rugosus,Acanthophis pyrrhus,0.5,Acanthophis pyrrhus,0.5,unchanged
+GPT-6.1 Sol,18,Thelotornis capensis,Hydrodynastes gigas,0.0,Thelotornis capensis capensis,2.0,improved
+GPT-6.1 Sol,19,Malayopython timoriensis,Simalia,0.0,Malayopython reticulatus reticulatus,0.5,improved
+GPT-6.1 Sol,20,Thamnophis sirtalis tetrataenia,Thamnophis sirtalis tetrataenia,3.0,Thamnophis sirtalis tetrataenia,3.0,unchanged
+GPT-6.1 Sol,21,Aspidites ramsayi,Aspidites ramsayi,2.0,Aspidites ramsayi,2.0,unchanged
+GPT-6.1 Sol,22,Eryx jayakari,Eryx,1.0,Eryx jayakari,2.0,improved
+GPT-6.1 Sol,23,Candoia paulsoni paulsoni,Morelia spilota,0.0,Candoia,1.0,improved
+GPT-6.1 Sol,24,Leiopython albertisii,Leiopython albertisii,2.0,Leiopython albertisii,2.0,unchanged
+GPT-6.1 Sol,25,Thamnophis sirtalis infernalis,Thamnophis sirtalis infernalis,3.0,Thamnophis sirtalis infernalis,3.0,unchanged
+GPT-6.1 Sol,26,Bitis nasicornis,Bitis nasicornis,2.0,Bitis nasicornis,2.0,unchanged
+GPT-6.1 Sol,27,Tropidolaemus wagleri,Tropidolaemus wagleri,2.0,Tropidolaemus wagleri,2.0,unchanged
+GPT-6.1 Sol,28,Eunectes notaeus,Eunectes notaeus,2.0,Eunectes notaeus,2.0,unchanged
+GPT-6.1 Sol,29,Protobothrops flavoviridis,Morelia spilota,0.0,Protobothrops flavoviridis,2.0,improved
+GPT-6.1 Sol,30,Aspidelaps lubricus lubricus,Aspidelaps lubricus,2.0,Aspidelaps lubricus lubricus,3.0,improved
+Claude Opus 5.5,1,Simalia amethistina,Simalia kinghorni,0.5,Simalia amethistina,2.0,improved
+Claude Opus 5.5,2,Morelia spilota spilota,Morelia spilota spilota,3.0,Morelia spilota spilota,3.0,unchanged
+Claude Opus 5.5,3,Agkistrodon taylori,Agkistrodon taylori,2.0,Agkistrodon taylori,2.0,unchanged
+Claude Opus 5.5,4,Vipera kaznakovi,Vipera berus,0.5,Vipera kaznakovi,2.0,improved
+Claude Opus 5.5,5,Corallus batesii,Corallus caninus,0.5,Corallus batesii,2.0,improved
+Claude Opus 5.5,6,Bungarus flaviceps baluensis,Oxyrhopus,0.0,Gonyophis margaritatus,0.0,unchanged
+Claude Opus 5.5,7,Hemachatus haemachatus,Hemachatus haemachatus,2.0,Hemachatus haemachatus,2.0,unchanged
+Claude Opus 5.5,8,Nerodia fasciata confluens,Nerodia fasciata,2.0,Nerodia fasciata confluens,3.0,improved
+Claude Opus 5.5,9,Sanzinia madagascariensis,Sanzinia madagascariensis,2.0,Sanzinia madagascariensis,2.0,unchanged
+Claude Opus 5.5,10,Boiga melanota,Boiga dendrophila,2.0,Boiga dendrophila melanota,2.0,unchanged
+Claude Opus 5.5,11,Pseudechis porphyriacus,Pseudechis porphyriacus,2.0,Pseudechis porphyriacus,2.0,unchanged
+Claude Opus 5.5,12,Ptyas nigromarginata,Ptyas nigromarginata,2.0,Ptyas nigromarginata,2.0,unchanged
+Claude Opus 5.5,13,Naja samarensis,Naja subfulva,0.5,Naja samarensis,2.0,improved
+Claude Opus 5.5,14,Calliophis bivirgatus flaviceps,Calliophis bivirgatus flaviceps,3.0,Calliophis bivirgatus flaviceps,3.0,unchanged
+Claude Opus 5.5,15,Azemiops feae,Lycodon,0.0,Azemiops kharini,2.0,improved
+Claude Opus 5.5,16,Zamenis situla,Zamenis situla,2.0,Zamenis situla,2.0,unchanged
+Claude Opus 5.5,17,Acanthophis rugosus,Acanthophis pyrrhus,0.5,Acanthophis pyrrhus,0.5,unchanged
+Claude Opus 5.5,18,Thelotornis capensis,Thelotornis capensis,2.0,Thelotornis capensis capensis,2.0,unchanged
+Claude Opus 5.5,19,Malayopython timoriensis,Morelia spilota,0.0,Malayopython timoriensis,2.0,improved
+Claude Opus 5.5,20,Thamnophis sirtalis tetrataenia,Thamnophis sirtalis tetrataenia,3.0,Thamnophis sirtalis tetrataenia,3.0,unchanged
+Claude Opus 5.5,21,Aspidites ramsayi,Aspidites ramsayi,2.0,Aspidites ramsayi,2.0,unchanged
+Claude Opus 5.5,22,Eryx jayakari,Eryx jayakari,2.0,Eryx jayakari,2.0,unchanged
+Claude Opus 5.5,23,Candoia paulsoni paulsoni,Morelia spilota,0.0,Candoia paulsoni,2.0,improved
+Claude Opus 5.5,24,Leiopython albertisii,Leiopython albertisii,2.0,Leiopython albertisii,2.0,unchanged
+Claude Opus 5.5,25,Thamnophis sirtalis infernalis,Thamnophis sirtalis infernalis,3.0,Thamnophis sirtalis infernalis,3.0,unchanged
+Claude Opus 5.5,26,Bitis nasicornis,Bitis nasicornis,2.0,Bitis nasicornis,2.0,unchanged
+Claude Opus 5.5,27,Tropidolaemus wagleri,Tropidolaemus wagleri,2.0,Tropidolaemus wagleri,2.0,unchanged
+Claude Opus 5.5,28,Eunectes notaeus,Eunectes notaeus,2.0,Eunectes notaeus,2.0,unchanged
+Claude Opus 5.5,29,Protobothrops flavoviridis,Leioheterodon madagascariensis,0.0,Protobothrops flavoviridis,2.0,improved
+Claude Opus 5.5,30,Aspidelaps lubricus lubricus,Aspidelaps lubricus,2.0,Aspidelaps lubricus lubricus,3.0,improved
+Claude Sonnet 5.5,1,Simalia amethistina,Simalia kinghorni,0.5,Simalia amethistina,2.0,improved
+Claude Sonnet 5.5,2,Morelia spilota spilota,Morelia spilota spilota,3.0,Morelia spilota spilota,3.0,unchanged
+Claude Sonnet 5.5,3,Agkistrodon taylori,Cerrophidion,0.0,Agkistrodon taylori,2.0,improved
+Claude Sonnet 5.5,4,Vipera kaznakovi,Vipera berus,0.5,Vipera kaznakovi,2.0,improved
+Claude Sonnet 5.5,5,Corallus batesii,Corallus batesii,2.0,Corallus batesii,2.0,unchanged
+Claude Sonnet 5.5,6,Bungarus flaviceps baluensis,Oxyrhopus,0.0,Calliophis bivirgatus,0.0,unchanged
+Claude Sonnet 5.5,7,Hemachatus haemachatus,Naja,0.0,Hemachatus haemachatus,2.0,improved
+Claude Sonnet 5.5,8,Nerodia fasciata confluens,Nerodia fasciata,2.0,Nerodia fasciata confluens,3.0,improved
+Claude Sonnet 5.5,9,Sanzinia madagascariensis,Corallus,0.0,Acrantophis madagascariensis,0.0,unchanged
+Claude Sonnet 5.5,10,Boiga melanota,Boiga dendrophila,2.0,Boiga dendrophila,2.0,unchanged
+Claude Sonnet 5.5,11,Pseudechis porphyriacus,Pseudechis porphyriacus,2.0,Pseudechis porphyriacus,2.0,unchanged
+Claude Sonnet 5.5,12,Ptyas nigromarginata,Philodryas olfersii,0.0,Gonyosoma frenatum,0.0,unchanged
+Claude Sonnet 5.5,13,Naja samarensis,Naja subfulva,0.5,Naja philippinensis,0.5,unchanged
+Claude Sonnet 5.5,14,Calliophis bivirgatus flaviceps,Calliophis bivirgatus,2.0,Calliophis bivirgatus,2.0,unchanged
+Claude Sonnet 5.5,15,Azemiops feae,Protobothrops mangshanensis,0.0,Dinodon,0.0,unchanged
+Claude Sonnet 5.5,16,Zamenis situla,Zamenis situla,2.0,Zamenis situla,2.0,unchanged
+Claude Sonnet 5.5,17,Acanthophis rugosus,Acanthophis,1.0,Acanthophis pyrrhus,0.5,worsened
+Claude Sonnet 5.5,18,Thelotornis capensis,Thelotornis,1.0,Thelotornis capensis,2.0,improved
+Claude Sonnet 5.5,19,Malayopython timoriensis,Simalia amethistina,0.0,Malayopython timoriensis,2.0,improved
+Claude Sonnet 5.5,20,Thamnophis sirtalis tetrataenia,Thamnophis sirtalis tetrataenia,3.0,Thamnophis sirtalis tetrataenia,3.0,unchanged
+Claude Sonnet 5.5,21,Aspidites ramsayi,Aspidites ramsayi,2.0,Aspidites ramsayi,2.0,unchanged
+Claude Sonnet 5.5,22,Eryx jayakari,Eryx,1.0,Eryx jayakari,2.0,improved
+Claude Sonnet 5.5,23,Candoia paulsoni paulsoni,Morelia spilota,0.0,Candoia,1.0,improved
+Claude Sonnet 5.5,24,Leiopython albertisii,Leiopython albertisii,2.0,Leiopython,1.0,worsened
+Claude Sonnet 5.5,25,Thamnophis sirtalis infernalis,Thamnophis sirtalis infernalis,3.0,Thamnophis sirtalis infernalis,3.0,unchanged
+Claude Sonnet 5.5,26,Bitis nasicornis,Bitis nasicornis,2.0,Bitis nasicornis,2.0,unchanged
+Claude Sonnet 5.5,27,Tropidolaemus wagleri,Tropidolaemus wagleri,2.0,Tropidolaemus wagleri,2.0,unchanged
+Claude Sonnet 5.5,28,Eunectes notaeus,Eunectes notaeus,2.0,Eunectes notaeus,2.0,unchanged
+Claude Sonnet 5.5,29,Protobothrops flavoviridis,Chilabothrus striatus,0.0,Elaphe carinata,0.0,unchanged
+Claude Sonnet 5.5,30,Aspidelaps lubricus lubricus,Aspidelaps lubricus,2.0,Aspidelaps lubricus,2.0,unchanged
+GPT-6 Luna,1,Simalia amethistina,Morelia spilota,0.0,Morelia amethistina,2.0,improved
+GPT-6 Luna,2,Morelia spilota spilota,Morelia spilota,2.0,Morelia spilota,2.0,unchanged
+GPT-6 Luna,3,Agkistrodon taylori,Bothrops,0.0,Crotalus lepidus,0.0,unchanged
+GPT-6 Luna,4,Vipera kaznakovi,Vipera,1.0,Vipera kaznakovi,2.0,improved
+GPT-6 Luna,5,Corallus batesii,Morelia viridis,0.0,Corallus batesii,2.0,improved
+GPT-6 Luna,6,Bungarus flaviceps baluensis,Micrurus,0.0,Cylindrophis ruffus,0.0,unchanged
+GPT-6 Luna,7,Hemachatus haemachatus,Naja naja,0.0,Hemachatus haemachatus,2.0,improved
+GPT-6 Luna,8,Nerodia fasciata confluens,Helicops,0.0,Nerodia fasciata confluens,3.0,improved
+GPT-6 Luna,9,Sanzinia madagascariensis,Candoia,0.0,Sanzinia madagascariensis,2.0,improved
+GPT-6 Luna,10,Boiga melanota,Bungarus,0.0,Boiga dendrophila,2.0,improved
+GPT-6 Luna,11,Pseudechis porphyriacus,Pseudonaja,0.0,Cryptophis nigrescens,0.0,unchanged
+GPT-6 Luna,12,Ptyas nigromarginata,Chrysopelea ornata,0.0,Ptyas nigromarginata,2.0,improved
+GPT-6 Luna,13,Naja samarensis,Naja,1.0,Naja samarensis,2.0,improved
+GPT-6 Luna,14,Calliophis bivirgatus flaviceps,Calliophis bivirgatus,2.0,Calliophis bivirgatus,2.0,unchanged
+GPT-6 Luna,15,Azemiops feae,Micrurus,0.0,Euprepiophis mandarinus,0.0,unchanged
+GPT-6 Luna,16,Zamenis situla,Pituophis catenifer,0.0,Zamenis situla,2.0,improved
+GPT-6 Luna,17,Acanthophis rugosus,Bothrops,0.0,Aspidites ramsayi,0.0,unchanged
+GPT-6 Luna,18,Thelotornis capensis,Naja,0.0,Thelotornis capensis,2.0,improved
+GPT-6 Luna,19,Malayopython timoriensis,Python bivittatus,0.0,Malayopython reticulatus,0.5,improved
+GPT-6 Luna,20,Thamnophis sirtalis tetrataenia,Thamnophis sirtalis parietalis,1.5,Thamnophis sirtalis tetrataenia,3.0,improved
+GPT-6 Luna,21,Aspidites ramsayi,Aspidites ramsayi,2.0,Pseudechis australis,0.0,worsened
+GPT-6 Luna,22,Eryx jayakari,Eryx,1.0,Eryx jayakari,2.0,improved
+GPT-6 Luna,23,Candoia paulsoni paulsoni,Corallus,0.0,Candoia paulsoni,2.0,improved
+GPT-6 Luna,24,Leiopython albertisii,Aspidites melanocephalus,0.0,Apodora papuana,0.0,unchanged
+GPT-6 Luna,25,Thamnophis sirtalis infernalis,Thamnophis sirtalis,2.0,Thamnophis sirtalis infernalis,3.0,improved
+GPT-6 Luna,26,Bitis nasicornis,Bothriechis schlegelii,0.0,Atheris nitschei,0.0,unchanged
+GPT-6 Luna,27,Tropidolaemus wagleri,Tropidolaemus wagleri,2.0,Boiga dendrophila,0.0,worsened
+GPT-6 Luna,28,Eunectes notaeus,Eunectes,1.0,Eunectes murinus,0.5,worsened
+GPT-6 Luna,29,Protobothrops flavoviridis,Morelia spilota,0.0,Protobothrops flavoviridis,2.0,improved
+GPT-6 Luna,30,Aspidelaps lubricus lubricus,Naja,0.0,Naja nivea,0.0,unchanged
+Gemini 3.5 Flash-Lite,1,Simalia amethistina,Morelia amethistina,2.0,Simalia amethistina,2.0,unchanged
+Gemini 3.5 Flash-Lite,2,Morelia spilota spilota,Morelia spilota,2.0,Morelia spilota,2.0,unchanged
+Gemini 3.5 Flash-Lite,3,Agkistrodon taylori,Agkistrodon taylori,2.0,Agkistrodon taylori,2.0,unchanged
+Gemini 3.5 Flash-Lite,4,Vipera kaznakovi,Vipera berus,0.5,Vipera kaznakovi,2.0,improved
+Gemini 3.5 Flash-Lite,5,Corallus batesii,Corallus caninus,0.5,Corallus caninus,0.5,unchanged
+Gemini 3.5 Flash-Lite,6,Bungarus flaviceps baluensis,Clelia clelia,0.0,Cylindrophis ruffus,0.0,unchanged
+Gemini 3.5 Flash-Lite,7,Hemachatus haemachatus,Naja,0.0,Naja nivea,0.0,unchanged
+Gemini 3.5 Flash-Lite,8,Nerodia fasciata confluens,Nerodia fasciata,2.0,Nerodia erythrogaster,0.5,worsened
+Gemini 3.5 Flash-Lite,9,Sanzinia madagascariensis,Candoia aspera,0.0,Sanzinia madagascariensis,2.0,improved
+Gemini 3.5 Flash-Lite,10,Boiga melanota,Spilotes pullatus,0.0,Boiga dendrophila,2.0,improved
+Gemini 3.5 Flash-Lite,11,Pseudechis porphyriacus,Pseudechis porphyriacus,2.0,Pseudechis porphyriacus,2.0,unchanged
+Gemini 3.5 Flash-Lite,12,Ptyas nigromarginata,Spilotes sulphureus,0.0,Gonyosoma frenatum,0.0,unchanged
+Gemini 3.5 Flash-Lite,13,Naja samarensis,Naja naja,0.5,Naja samarensis,2.0,improved
+Gemini 3.5 Flash-Lite,14,Calliophis bivirgatus flaviceps,Calliophis bivirgatus,2.0,Calliophis bivirgatus,2.0,unchanged
+Gemini 3.5 Flash-Lite,15,Azemiops feae,Sibon annulatus,0.0,Sibynophis chinensis,0.0,unchanged
+Gemini 3.5 Flash-Lite,16,Zamenis situla,Zamenis situla,2.0,Zamenis situla,2.0,unchanged
+Gemini 3.5 Flash-Lite,17,Acanthophis rugosus,Acanthophis pyrrhus,0.5,Acanthophis pyrrhus,0.5,unchanged
+Gemini 3.5 Flash-Lite,18,Thelotornis capensis,Dasypeltis scabra,0.0,Dasypeltis scabra,0.0,unchanged
+Gemini 3.5 Flash-Lite,19,Malayopython timoriensis,Morelia oenpelliensis,0.0,Simalia clarki,0.0,unchanged
+Gemini 3.5 Flash-Lite,20,Thamnophis sirtalis tetrataenia,Thamnophis sirtalis,2.0,Thamnophis sirtalis infernalis,1.5,worsened
+Gemini 3.5 Flash-Lite,21,Aspidites ramsayi,Aspidites ramsayi,2.0,Aspidites ramsayi,2.0,unchanged
+Gemini 3.5 Flash-Lite,22,Eryx jayakari,Eryx miliaris,0.5,Eryx jayakari,2.0,improved
+Gemini 3.5 Flash-Lite,23,Candoia paulsoni paulsoni,Corallus annulatus,0.0,Candoia bibroni,0.5,improved
+Gemini 3.5 Flash-Lite,24,Leiopython albertisii,Leiopython albertisii,2.0,Bothrochilus albertisii,2.0,unchanged
+Gemini 3.5 Flash-Lite,25,Thamnophis sirtalis infernalis,Thamnophis sirtalis,2.0,Thamnophis sirtalis trifasciatus,1.0,worsened
+Gemini 3.5 Flash-Lite,26,Bitis nasicornis,Bitis nasicornis,2.0,Bitis nasicornis,2.0,unchanged
+Gemini 3.5 Flash-Lite,27,Tropidolaemus wagleri,Tropidolaemus wagleri,2.0,Tropidolaemus wagleri,2.0,unchanged
+Gemini 3.5 Flash-Lite,28,Eunectes notaeus,Eunectes notaeus,2.0,Eunectes murinus,0.5,worsened
+Gemini 3.5 Flash-Lite,29,Protobothrops flavoviridis,Leptodeira annulata,0.0,Protobothrops flavoviridis,2.0,improved
+Gemini 3.5 Flash-Lite,30,Aspidelaps lubricus lubricus,Aspidelaps scutatus,0.5,Aspidelaps lubricus,2.0,improved
+Claude Haiku 5.5,1,Simalia amethistina,Morelia spilota,0.0,Morelia spilota,0.0,unchanged
+Claude Haiku 5.5,2,Morelia spilota spilota,Morelia spilota,2.0,Morelia spilota,2.0,unchanged
+Claude Haiku 5.5,3,Agkistrodon taylori,,0.0,Lampropeltis,0.0,unchanged
+Claude Haiku 5.5,4,Vipera kaznakovi,Vipera aspis,0.5,Vipera kaznakovi,2.0,improved
+Claude Haiku 5.5,5,Corallus batesii,Morelia viridis,0.0,Corallus caninus,0.5,improved
+Claude Haiku 5.5,6,Bungarus flaviceps baluensis,Calliophis,0.0,MULTIPLE_SPECIMENS,0.0,unchanged
+Claude Haiku 5.5,7,Hemachatus haemachatus,Naja nigricollis,0.0,Naja,0.0,unchanged
+Claude Haiku 5.5,8,Nerodia fasciata confluens,Nerodia,1.0,Nerodia,1.0,unchanged
+Claude Haiku 5.5,9,Sanzinia madagascariensis,Corallus,0.0,Sanzinia madagascariensis,2.0,improved
+Claude Haiku 5.5,10,Boiga melanota,Hemibungarus,0.0,Calliophis,0.0,unchanged
+Claude Haiku 5.5,11,Pseudechis porphyriacus,Pseudechis porphyriacus,2.0,Pseudechis porphyriacus,2.0,unchanged
+Claude Haiku 5.5,12,Ptyas nigromarginata,Philodryas,0.0,MULTIPLE_SPECIMENS,0.0,unchanged
+Claude Haiku 5.5,13,Naja samarensis,Naja,1.0,Naja philippinensis,0.5,worsened
+Claude Haiku 5.5,14,Calliophis bivirgatus flaviceps,Maticora bivirgata,2.0,Calliophis bivirgatus,2.0,unchanged
+Claude Haiku 5.5,15,Azemiops feae,Hemibungarus,0.0,Sinomicrurus,0.0,unchanged
+Claude Haiku 5.5,16,Zamenis situla,Pituophis catenifer,0.0,Zamenis situla,2.0,improved
+Claude Haiku 5.5,17,Acanthophis rugosus,,0.0,Antaioserpens,0.0,unchanged
+Claude Haiku 5.5,18,Thelotornis capensis,Dispholidus typus,0.0,Thelotornis mossambicus,0.5,improved
+Claude Haiku 5.5,19,Malayopython timoriensis,Eunectes,0.0,Malayopython timoriensis,2.0,improved
+Claude Haiku 5.5,20,Thamnophis sirtalis tetrataenia,Thamnophis sirtalis,2.0,Thamnophis sirtalis tetrataenia,3.0,improved
+Claude Haiku 5.5,21,Aspidites ramsayi,Morelia,0.0,Pseudechis,0.0,unchanged
+Claude Haiku 5.5,22,Eryx jayakari,Antaresia,0.0,Eryx jayakari,2.0,improved
+Claude Haiku 5.5,23,Candoia paulsoni paulsoni,Morelia,0.0,Candoia carinata,0.5,improved
+Claude Haiku 5.5,24,Leiopython albertisii,Python,0.0,Liasis mackloti,0.0,unchanged
+Claude Haiku 5.5,25,Thamnophis sirtalis infernalis,Thamnophis sirtalis,2.0,Thamnophis sirtalis infernalis,3.0,improved
+Claude Haiku 5.5,26,Bitis nasicornis,Atheris,0.0,Atheris squamigera,0.0,unchanged
+Claude Haiku 5.5,27,Tropidolaemus wagleri,Trimeresurus,0.0,Trimeresurus,0.0,unchanged
+Claude Haiku 5.5,28,Eunectes notaeus,Eunectes notaeus,2.0,Eunectes murinus,0.5,worsened
+Claude Haiku 5.5,29,Protobothrops flavoviridis,Morelia,0.0,Elaphe carinata,0.0,unchanged
+Claude Haiku 5.5,30,Aspidelaps lubricus lubricus,Aspidelaps scutatus,0.5,Aspidelaps lubricus cowlesi,1.5,improved

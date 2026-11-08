@@ -1,0 +1,31 @@
+image,id,ground_truth_species,verified_subspecies,taxonomic_group,locality_supplied,max_score
+img_001.png,S021,Simalia amethistina,none,Pythons,"Alotau, Milne Bay Province, Papua New Guinea",2
+img_002.jpg,S022,Morelia spilota,Morelia spilota spilota,Pythons,"Gosford, New South Wales, Australia",3
+img_003.jpg,S013,Agkistrodon taylori,none,Vipers,"Montemorelos, Nuevo León, Mexico",2
+img_004.jpg,S010,Vipera kaznakovi,none,Vipers,"Batumi, Adjara, Georgia",2
+img_005.jpg,S026,Corallus batesii,none,Boas,"Maynas Province, Loreto, Peru",2
+img_006.jpg,S015,Bungarus flaviceps,Bungarus flaviceps baluensis,Elapids,"Ranau, Sabah, Malaysia",3
+img_007.jpg,S018,Hemachatus haemachatus,none,Elapids,"Nelson Mandela Bay, Eastern Cape, South Africa",2
+img_008.jpg,S006,Nerodia fasciata,Nerodia fasciata confluens,Colubrids,"Harris County, Texas, United States",3
+img_009.jpg,S027,Sanzinia madagascariensis,none,Boas,"Sava Region, Madagascar",2
+img_010.jpg,S003,Boiga melanota,none,Colubrids,"Langkat Regency, North Sumatra, Indonesia",2
+img_011.jpg,S019,Pseudechis porphyriacus,none,Elapids,"Mitchell Shire, Victoria, Australia",2
+img_012.jpg,S004,Ptyas nigromarginata,none,Colubrids,"Pua District, Nan Province, Thailand",2
+img_013.jpg,S014,Naja samarensis,none,Elapids,"Candijay, Bohol, Philippines",2
+img_014.jpg,S020,Calliophis bivirgatus,Calliophis bivirgatus flaviceps,Elapids,"Raub, Pahang, Malaysia",3
+img_015.jpg,S008,Azemiops feae,none,Vipers,"Taizhou, Zhejiang, China",2
+img_016.jpg,S005,Zamenis situla,none,Colubrids,"Syracuse, Sicily, Italy",2
+img_017.jpg,S017,Acanthophis rugosus,none,Elapids,"Boulia, Queensland, Australia",2
+img_018.jpg,S007,Thelotornis capensis,none,Colubrids,"uMkhanyakude District, KwaZulu-Natal, South Africa",2
+img_019.jpg,S023,Malayopython timoriensis,none,Pythons,"East Flores Regency, East Nusa Tenggara, Indonesia",2
+img_020.jpg,S001,Thamnophis sirtalis,Thamnophis sirtalis tetrataenia,Colubrids,"San Mateo County, California, United States",3
+img_021.jpg,S024,Aspidites ramsayi,none,Pythons,"Anmatjere, Northern Territory, Australia",2
+img_022.jpg,S028,Eryx jayakari,none,Boas,"Ras Al Khaimah, United Arab Emirates",2
+img_023.jpg,S029,Candoia paulsoni,Candoia paulsoni paulsoni,Boas,"Areare, Malaita, Solomon Islands",3
+img_024.jpg,S025,Leiopython albertisii,none,Pythons,"Sorong, Southwest Papua, Indonesia",2
+img_025.jpg,S002,Thamnophis sirtalis,Thamnophis sirtalis infernalis,Colubrids,"Point Reyes National Seashore, Marin County, California, United States",3
+img_026.jpg,S009,Bitis nasicornis,none,Vipers,"Kagoma, Jinja District, Uganda",2
+img_027.jpg,S011,Tropidolaemus wagleri,none,Vipers,"Mandai, Singapore",2
+img_028.jpg,S030,Eunectes notaeus,none,Boas,"Poconé, Mato Grosso, Brazil",2
+img_029.jpg,S012,Protobothrops flavoviridis,none,Vipers,"Kunigami, Okinawa, Japan",2
+img_030.jpg,S016,Aspidelaps lubricus,Aspidelaps lubricus lubricus,Elapids,"Lüderitz, ǁKaras Region, Namibia",3

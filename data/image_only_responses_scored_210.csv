@@ -1,0 +1,1982 @@
+﻿model_name,blind_label,condition,image,image_id,taxonomic_group,ground_truth,ground_truth_species,ground_truth_subspecies,possible_points,raw_identification,raw_subspecies_status,raw_section,adjudicated_identification,normalized_identification,taxonomic_alias,confidence_genus,confidence_species,confidence_subspecies,genus_correct,species_attempted,species_correct,subspecies_attempted,subspecies_correct,subspecies_status_reported,subspecies_status_expected,subspecies_status_correct_provisional,scoring_category,fabricated_name,false_multi_specimen,score,score_no_specificity_penalty,adjudication_notes
+Claude Haiku 5.5,A,image_only,img_001.png,1,Pythons,Simalia amethistina,Simalia amethistina,,2,"Morelia spilota (carpet python), tentative",Recognized but not identifiable,"Identification: Morelia spilota (carpet python), tentative
+
+Subspecies status: Recognized but not identifiable
+
+Confidence:
+
+- Genus: Medium
+- Species: Low-Medium
+- Subspecies: N/A
+
+Visual evidence: The specimen has a heavy body with a tan to yellow-brown ground colour and dark chevron-like and blotched dorsal markings, consistent with a carpet python. The head is broad and blunt with large, symmetrically arranged head shields and a dark postocular marking. Several other pythonine and boine genera share similar colouration, and the image does not show the ventral surface, scale counts, or the full head pattern, so the species assignment remains uncertain. Carpet pythons include several recognized subspecies with overlapping patterns, which cannot be resolved from this photograph.",Morelia spilota,Morelia spilota,0,Medium,Low-Medium,N/A,0,1,0,0,0,recognized_not_identifiable,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Haiku 5.5,A,image_only,img_002.jpg,2,Pythons,Morelia spilota spilota,Morelia spilota,Morelia spilota spilota,3,"Morelia spilota (carpet python), tentative",Recognized but not identifiable,"Identification: Morelia spilota (carpet python), tentative
+
+Subspecies status: Recognized but not identifiable
+
+Confidence:
+
+- Genus: Medium
+- Species: Low-Medium
+- Subspecies: N/A
+
+Visual evidence: The specimen has a dark olive-black dorsal ground with numerous yellow and cream flecks, bars, and spots, and the head bears cream-edged shields and labials. The long, tapering tail, pythonine body proportions, and dark ground with pale pattern fit Morelia, but the strongly flecked, low-contrast pattern is atypical for wild carpet pythons and could reflect a captive-bred colour morph. The photograph does not show scale counts, the ventral surface, or a clear view of the full head pattern, so the species and subspecies cannot be resolved.",Morelia spilota,Morelia spilota,0,Medium,Low-Medium,N/A,1,1,1,0,0,recognized_not_identifiable,recognized_not_identifiable,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Haiku 5.5,A,image_only,img_003.jpg,3,Vipers,Agkistrodon taylori,Agkistrodon taylori,,2,"Crotalus? No. I cannot place this specimen with confidence. Tentatively assigned to a colubroid genus, but the photograph does not support a more specific identification.",Undetermined because species is unidentified,"Identification: Crotalus? No. I cannot place this specimen with confidence. Tentatively assigned to a colubroid genus, but the photograph does not support a more specific identification.
+
+Subspecies status: Undetermined because species is unidentified
+
+Confidence:
+
+- Genus: Low
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The specimen has a glossy black dorsum with bands of orange to yellow scales, each edged in black and cream, and a cream-edged head shield at the upper left. The photograph is taken at an angle, and the head is partly obscured by coils, so head shape, pupil, and ventral scalation cannot be assessed. The combination of a black ground with orange-yellow dorsal markings narrows the field somewhat but does not reliably distinguish among several unrelated genera with similar colouration.",,,0,Low,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,"Explicit non-answer (""I cannot place this specimen"")"
+Claude Haiku 5.5,A,image_only,img_004.jpg,4,Vipers,Vipera kaznakovi,Vipera kaznakovi,,2,"Vipera aspis (asp viper), tentative",Recognized but not identifiable,"Identification: Vipera aspis (asp viper), tentative
+
+Subspecies status: Recognized but not identifiable
+
+Confidence:
+
+- Genus: Medium-High
+- Species: Low-Medium
+- Subspecies: N/A
+
+Visual evidence: The dorsal pattern is a dark zigzag or chevron series on a dark ground, with orange-brown lateral markings, and the head is dark with a pale postocular mark. The genus Vipera is supported by the pattern and the broad, triangular head. The species is less certain because Vipera berus shows similar colouration, and the photograph does not clearly show the snout profile, which is a key character in separating these species. Several recognized subspecies of V. aspis also overlap in pattern, so the subspecies cannot be resolved from this image.",Vipera aspis,Vipera aspis,0,Medium-High,Low-Medium,N/A,1,1,0,0,0,recognized_not_identifiable,undetermined,0,correct genus; incorrect species,0,0,0.5,1.0,
+Claude Haiku 5.5,A,image_only,img_005.jpg,5,Boas,Corallus batesii,Corallus batesii,,2,Morelia viridis (green tree python),No recognized subspecies,"Identification: Morelia viridis (green tree python)
+
+Subspecies status: No recognized subspecies
+
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The specimen has a bright green dorsum with white, Y-shaped and bar-like lateral markings, a broad triangular head, and yellow-tinged labial scales. The posture, with the body coiled around a branch, is typical of an arboreal python. The photograph does not show the tail or the ventral surface, and the head is partly turned, so the species call rests mainly on colouration and pattern, which can vary with age and between captive-bred lines.",Morelia viridis,Morelia viridis,0,High,Medium-High,N/A,0,1,0,0,0,none_recognized,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Haiku 5.5,A,image_only,img_006.jpg,6,Elapids,Bungarus flaviceps baluensis,Bungarus flaviceps,Bungarus flaviceps baluensis,3,"Calliophis sp., tentative",Undetermined because species is unidentified,"Identification: Calliophis sp., tentative
+
+Subspecies status: Undetermined because species is unidentified
+
+Confidence:
+
+- Genus: Low
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The focal specimen has a glossy black dorsum in which each scale is edged in cream or white, a sharply demarcated yellow head and neck, and a small, dark eye. The scale pattern gives an unusually regular, reticulated look. A second snake in the background, with red and black-and-white banding, is a separate animal and is not used as evidence here. The photograph does not show the ventral surface, the head shields in detail, or the tail, so the genus is only tentatively suggested and could lie among several Asian or Neotropical elapid or colubrid genera with similar colouration.",Calliophis,Calliophis,0,Low,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Haiku 5.5,A,image_only,img_007.jpg,7,Elapids,Hemachatus haemachatus,Hemachatus haemachatus,,2,"Naja nigricollis (black-necked spitting cobra), tentative",Recognized but not identifiable,"Identification: Naja nigricollis (black-necked spitting cobra), tentative
+
+Subspecies status: Recognized but not identifiable
+
+Confidence:
+
+- Genus: High
+- Species: Low-Medium
+- Subspecies: N/A
+
+Visual evidence: The specimen is in a upright threat display with a hood expanded, showing the dark, heavily ringed throat and the cream-and-dark dorsal banding on the hood and forebody. The genus Naja is supported by the hood and the dorsal pattern of the anterior body. Several African and Asian Naja species share this kind of banding and throat coloration, and the image does not show the full dorsal pattern, the ventral surface, or the head shields, so the species call is tentative. Naja nigricollis includes recognized subspecies, but these cannot be resolved from this photograph.",Naja nigricollis,Naja nigricollis,0,High,Low-Medium,N/A,0,1,0,0,0,recognized_not_identifiable,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Haiku 5.5,A,image_only,img_008.jpg,8,Colubrids,Nerodia fasciata confluens,Nerodia fasciata,Nerodia fasciata confluens,3,"Nerodia sp., tentative",Undetermined because species is unidentified,"Identification: Nerodia sp., tentative
+
+Subspecies status: Undetermined because species is unidentified
+
+Confidence:
+
+- Genus: Low-Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The specimen has a dark, glossy dorsum with broad orange-brown crossbands that are edged in pale cream, and an orange-brown head with a darker top. The bands are bold and irregular across the body, which is consistent with several natricine and colubrine genera. The photograph does not show the ventral surface, the head shields in detail, or the pupil clearly, so the genus is only tentatively suggested and could lie among other colubrid genera with similar banding.",Nerodia,Nerodia,0,Low-Medium,N/A,N/A,1,0,0,0,0,undetermined,undetermined,1,genus only,0,0,1.0,1.0,
+Claude Haiku 5.5,A,image_only,img_009.jpg,9,Boas,Sanzinia madagascariensis,Sanzinia madagascariensis,,2,"Corallus sp., tentative",Undetermined because species is unidentified,"Identification: Corallus sp., tentative
+
+Subspecies status: Undetermined because species is unidentified
+
+Confidence:
+
+- Genus: Low-Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The specimen has an olive-green dorsum with darker blotches and a pale cream-to-white ventral surface, and a broad, heavy head with a dark postocular stripe and pale labials. The dark, bluish tongue is visible, but tongue colour varies and is not a reliable diagnostic here. The photograph does not show scale counts, the tail, or the full dorsal pattern, and several Neotropical and Australasian boids and pythons share this general colouration, so the genus is only tentative.",Corallus,Corallus,0,Low-Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Haiku 5.5,A,image_only,img_010.jpg,10,Colubrids,Boiga melanota,Boiga melanota,,2,"Hemibungarus sp., tentative",Undetermined because species is unidentified,"Identification: Hemibungarus sp., tentative
+
+Subspecies status: Undetermined because species is unidentified
+
+Confidence:
+
+- Genus: Low
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The specimen has a glossy black dorsum with irregular, bright yellow transverse blotches that broaden on the flanks, and a yellow chin and labial region that extends onto the throat. The head is dark above with a red-tipped tongue visible. The photograph does not show the ventral surface, the scale rows in detail, or the pupil, and several Asian elapid and colubrid genera share this black-and-yellow pattern, so the genus is only tentatively suggested.",Hemibungarus,Hemibungarus,0,Low,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Haiku 5.5,A,image_only,img_011.jpg,11,Elapids,Pseudechis porphyriacus,Pseudechis porphyriacus,,2,"Pseudechis porphyriacus (red-bellied black snake), tentative",No recognized subspecies,"Identification: Pseudechis porphyriacus (red-bellied black snake), tentative
+
+Subspecies status: No recognized subspecies
+
+Confidence:
+
+- Genus: Medium-High
+- Species: Low-Medium
+- Subspecies: N/A
+
+Visual evidence: The specimen has a glossy black dorsum with red-orange scales along the flanks and the lower body edge, and a rounded head with smooth, unkeeled dorsal scales. Red-sided black coloration is characteristic of Pseudechis, but several Australian elapids show similar patterns, and the image does not show the ventral surface, the head shields in detail, or the pupil. A shed skin lies nearby; it is not used as evidence for the identification.",Pseudechis porphyriacus,Pseudechis porphyriacus,0,Medium-High,Low-Medium,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Haiku 5.5,A,image_only,img_012.jpg,12,Colubrids,Ptyas nigromarginata,Ptyas nigromarginata,,2,"Philodryas sp. (green racer group), tentative",Undetermined because species is unidentified,"Identification: Philodryas sp. (green racer group), tentative
+
+Subspecies status: Undetermined because species is unidentified
+
+Confidence:
+
+- Genus: Low-Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The focal specimen is the bright green, slender-bodied snake with a brownish-yellow head, large dark eye, and yellowish throat and labials. Its smooth, glossy dorsal scales and long, lightly built body are consistent with a colubrid racer, but several green colubrid genera, including Chlorophis and Ahaetulla, share this general colouring. The photograph does not show the ventral surface, the head shields in detail, or the scale rows clearly, so the genus is only tentatively suggested. A second snake with a dark body and pale edged bands lies alongside and is a separate animal, so it is not used as evidence here.",Philodryas,Philodryas,0,Low-Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Haiku 5.5,A,image_only,img_013.jpg,13,Elapids,Naja samarensis,Naja samarensis,,2,"Naja sp., tentative",Undetermined because species is unidentified,"Identification: Naja sp., tentative
+
+Subspecies status: Undetermined because species is unidentified
+
+Confidence:
+
+- Genus: Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The specimen is in a raised, hooded posture, with a yellow dorsal ground colour, dark spotting on the body, and a pale grey-blue ventral surface on the hood and forebody. The hood and upright display support Naja, but several Asian and African cobra species show yellow or olive forms with dark spotting, and the image does not show the hood markings in detail, the throat pattern, or the head shields clearly. The species cannot be resolved from this photograph.",Naja,Naja,0,Medium,N/A,N/A,1,0,0,0,0,undetermined,undetermined,1,genus only,0,0,1.0,1.0,
+Claude Haiku 5.5,A,image_only,img_014.jpg,14,Elapids,Calliophis bivirgatus flaviceps,Calliophis bivirgatus,Calliophis bivirgatus flaviceps,3,"Maticora bivirgata (blue coral snake), tentative",No recognized subspecies,"Identification: Maticora bivirgata (blue coral snake), tentative
+
+Subspecies status: No recognized subspecies
+
+Confidence:
+
+- Genus: Medium-High
+- Species: Low-Medium
+- Subspecies: N/A
+
+Visual evidence: The specimen has a glossy blue dorsum with pale edging on the scales and a bright red head and red tail tip, a pattern typical of the blue coral snakes of Southeast Asia. The photograph does not show the head shields, the pupil, or the ventral surface in detail, and related Calliophis and Maticora species share similar colour combinations, so the species call is tentative.",Maticora bivirgata,Calliophis bivirgatus,1,Medium-High,Low-Medium,N/A,1,1,1,0,0,none_recognized,recognized_not_identifiable,0,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Haiku 5.5,A,image_only,img_015.jpg,15,Vipers,Azemiops feae,Azemiops feae,,2,"Hemibungarus sp., tentative",Undetermined because species is unidentified,"Identification: Hemibungarus sp., tentative
+
+Subspecies status: Undetermined because species is unidentified
+
+Confidence:
+
+- Genus: Low-Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The specimen has a glossy black dorsum with bright orange transverse bands that are narrow and sharply edged, and a cream-white head with dark olive-green blotching. The black body with orange rings resembles Hemibungarus, but several Asian elapid genera share this banding, and the image does not show the ventral surface, the scale rows in detail, or the pupil clearly. The head pattern is distinctive, yet its diagnostic value for genus is uncertain from this angle.",Hemibungarus,Hemibungarus,0,Low-Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Haiku 5.5,A,image_only,img_016.jpg,16,Colubrids,Zamenis situla,Zamenis situla,,2,"Pituophis catenifer (gopher snake), tentative",Recognized but not identifiable,"Identification: Pituophis catenifer (gopher snake), tentative
+
+Subspecies status: Recognized but not identifiable
+
+Confidence:
+
+- Genus: Low-Medium
+- Species: Low
+- Subspecies: N/A
+
+Visual evidence: The specimen has a grey-cream ground with bold reddish-brown blotches that alternate along the body and are bordered by dark scales, and the head is elongated with a slightly pointed snout. Pattern and head shape are consistent with a North American colubrid such as a gopher or bullsnake, but several Lampropeltis, Pantherophis, and Heterodon species share similar blotching, and the image does not show the dorsal pattern on the neck clearly, the ventral surface, or the pupil in detail. The pattern also varies widely across the range of Pituophis, so the species call is weakly supported.",Pituophis catenifer,Pituophis catenifer,0,Low-Medium,Low,N/A,0,1,0,0,0,recognized_not_identifiable,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Haiku 5.5,A,image_only,img_017.jpg,17,Elapids,Acanthophis rugosus,Acanthophis rugosus,,2,"Unresolved at genus level. The specimen is tentatively placed in a broad colubroid or viperid group, but the photograph does not support a specific genus.",Undetermined because species is unidentified,"Identification: Unresolved at genus level. The specimen is tentatively placed in a broad colubroid or viperid group, but the photograph does not support a specific genus.
+
+Subspecies status: Undetermined because species is unidentified
+
+Confidence:
+
+- Genus: Low
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The specimen has a tan to orange-brown dorsum with dark, narrow crossbands and a slightly lighter lateral ground, and the head is only weakly distinct from the neck. The tail is thin and ends in a pale tip. The photograph is taken from above on a uniform red-brown substrate, so the head shields, pupil, and ventral surface are not visible, and the head shape cannot be reliably assessed for venom-apparatus characters. Several unrelated genera share this general colouration, so no genus can be supported with confidence.",,,0,Low,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,Unresolved at genus level
+Claude Haiku 5.5,A,image_only,img_018.jpg,18,Colubrids,Thelotornis capensis,Thelotornis capensis,,2,"Dispholidus typus (boomslang), tentative",No recognized subspecies,"Identification: Dispholidus typus (boomslang), tentative
+
+Subspecies status: No recognized subspecies
+
+Confidence:
+
+- Genus: Low-Medium
+- Species: Low
+- Subspecies: N/A
+
+Visual evidence: The specimen is raised in a forward-leaning posture with a slender, grey-brown body, a narrow neck, and a head with a pale supralabial stripe and a dark postocular mark. The thin body and head shape are consistent with an African colubrid such as a boomslang, but many slender arboreal and terrestrial colubrids share this general form, and the image does not show the scale rows, the ventral surface, or the pupil clearly. The species call is weakly supported.",Dispholidus typus,Dispholidus typus,0,Low-Medium,Low,N/A,0,1,0,0,0,none_recognized,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Haiku 5.5,A,image_only,img_019.jpg,19,Pythons,Malayopython timoriensis,Malayopython timoriensis,,2,"Eunectes sp. (anaconda), tentative",Undetermined because species is unidentified,"Identification: Eunectes sp. (anaconda), tentative
+
+Subspecies status: Undetermined because species is unidentified
+
+Confidence:
+
+- Genus: Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The specimen is a large, heavy-bodied boid with an olive-brown dorsum bearing dark oval blotches that are edged in lighter tones, and a head with a yellow-tan labial region and a dark postocular stripe. The thick, muscular build and dorsal blotching are consistent with Eunectes, but the photograph does not show the ventral surface, the full head shields, or the scale rows clearly, and similar large boids such as Boa and some Python species share general colouration. The species cannot be resolved from this image.",Eunectes,Eunectes,0,Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Haiku 5.5,A,image_only,img_020.jpg,20,Colubrids,Thamnophis sirtalis tetrataenia,Thamnophis sirtalis,Thamnophis sirtalis tetrataenia,3,"Thamnophis sirtalis (common garter snake), tentative",Recognized but not identifiable,"Identification: Thamnophis sirtalis (common garter snake), tentative
+
+Subspecies status: Recognized but not identifiable
+
+Confidence:
+
+- Genus: High
+- Species: Medium
+- Subspecies: N/A
+
+Visual evidence: The specimen has a rust-red head, a slender body with pale cream and black longitudinal stripes, and red-orange flanks separated from the dark stripes by pale edging. The pattern of continuous stripes running the length of the body and the keeled dorsal scales are characteristic of Thamnophis. The photograph does not show the ventral surface, the pupil, or the posterior body clearly, and the head colour and stripe intensity vary widely within T. sirtalis, so the species call is tentative. Several recognized subspecies of T. sirtalis exist, but their patterns overlap and cannot be resolved from this image.",Thamnophis sirtalis,Thamnophis sirtalis,0,High,Medium,N/A,1,1,1,0,0,recognized_not_identifiable,recognized_not_identifiable,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Haiku 5.5,A,image_only,img_021.jpg,21,Pythons,Aspidites ramsayi,Aspidites ramsayi,,2,"Morelia sp. (python), tentative",Undetermined because species is unidentified,"Identification: Morelia sp. (python), tentative
+
+Subspecies status: Undetermined because species is unidentified
+
+Confidence:
+
+- Genus: Low-Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The specimen has a heavy, cylindrical body with a grey-brown dorsum, broad darker transverse bands, and a yellow-olive head with a blunt snout and dark eye. The body form and banding suggest a pythonine, and the arid red-soil setting is consistent with an Australian carpet python population. The photograph does not show the head shields, the labial pattern, the ventral surface, or the scale counts, and several other pythons with banded or grey-brown patterns could fit, so the genus is only tentatively supported and no species can be reasonably assigned.",Morelia,Morelia,0,Low-Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Haiku 5.5,A,image_only,img_022.jpg,22,Boas,Eryx jayakari,Eryx jayakari,,2,"Antaresia sp. (python), tentative",Undetermined because species is unidentified,"Identification: Antaresia sp. (python), tentative
+
+Subspecies status: Undetermined because species is unidentified
+
+Confidence:
+
+- Genus: Low-Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The specimen has a slender, cylindrical body with a brown dorsum bearing bright orange-tan blotches that break into irregular crossbands, and a pale cream ventral surface. The head is small and only slightly distinct from the neck, and the tail ends in a short, curled tip. These features suggest a small Australian pythonine, but the image does not show the head shields, the labial pattern, the scale counts, or the ventral scalation in detail, and several small pythons and related boids share this general pattern on sandy substrate. The genus is only tentatively supported.",Antaresia,Antaresia,0,Low-Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Haiku 5.5,A,image_only,img_023.jpg,23,Boas,Candoia paulsoni paulsoni,Candoia paulsoni,Candoia paulsoni paulsoni,3,"Morelia sp. (python), tentative",Undetermined because species is unidentified,"Identification: Morelia sp. (python), tentative
+
+Subspecies status: Undetermined because species is unidentified
+
+Confidence:
+
+- Genus: Low-Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The specimen is coiled around a tree trunk and has a cream-white ground with bold dark-brown, wavy transverse markings and a blunt, broad head. The pattern and body form suggest a pythonine, but several arboreal pythons and boids share cream-and-brown banding, and the head is partly obscured by foliage. The photograph does not show the head shields, labial pattern, ventral surface, or scale rows, so the genus is only tentatively supported and no species can be reasonably assigned.",Morelia,Morelia,0,Low-Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Haiku 5.5,A,image_only,img_024.jpg,24,Pythons,Leiopython albertisii,Leiopython albertisii,,2,"Python sp. (pythonine), tentative",Undetermined because species is unidentified,"Identification: Python sp. (pythonine), tentative
+
+Subspecies status: Undetermined because species is unidentified
+
+Confidence:
+
+- Genus: Low-Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The specimen has a heavy, glossy body with a dark olive-bronze dorsum and iridescent scale edges that shift toward blue and violet on the flanks, along with a dark head bearing white-edged labials and a pink tongue. The body form and iridescence suggest a pythonine, but several Australasian and Southeast Asian pythons share this combination of dark ground colour and sheen. The photograph does not show the dorsal pattern in full, the head shields in detail, or the ventral surface, so no species can be reasonably assigned.",Python,Python,0,Low-Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Haiku 5.5,A,image_only,img_025.jpg,25,Colubrids,Thamnophis sirtalis infernalis,Thamnophis sirtalis,Thamnophis sirtalis infernalis,3,"Thamnophis sirtalis (common garter snake), tentative",Recognized but not identifiable,"Identification: Thamnophis sirtalis (common garter snake), tentative
+
+Subspecies status: Recognized but not identifiable
+
+Confidence:
+
+- Genus: High
+- Species: Medium
+- Subspecies: N/A
+
+Visual evidence: The specimen has a dark body with a pale cream dorsal stripe and alternating red-orange blotches on the flanks, and a reddish head with a red forked tongue. The continuous lateral stripe and keeled, slender body are characteristic of Thamnophis. The photograph does not show the pupil, the ventral surface, or the full posterior body, and the red-blotched pattern overlaps with several garter snake forms, so the species call is tentative. Several recognized subspecies of T. sirtalis exist with overlapping patterns, and these cannot be resolved from this image.",Thamnophis sirtalis,Thamnophis sirtalis,0,High,Medium,N/A,1,1,1,0,0,recognized_not_identifiable,recognized_not_identifiable,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Haiku 5.5,A,image_only,img_026.jpg,26,Vipers,Bitis nasicornis,Bitis nasicornis,,2,"Atheris sp. (bush viper), tentative",Undetermined because species is unidentified,"Identification: Atheris sp. (bush viper), tentative
+
+Subspecies status: Undetermined because species is unidentified
+
+Confidence:
+
+- Genus: Low-Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The specimen is an arboreal viper with a keeled, mottled yellow-green and rust-red dorsum and a broad, triangular head bearing a pointed, horn-like projection at the snout. The image shows a viperid body plan with prehensile coiling around a branch. The eye and head-scale details are partly visible, but the ventral surface and the full extent of the snout projection are not, and Bothriechis and related New World palm and bush vipers share a similar form and colouring, so the genus is only tentatively supported.",Atheris,Atheris,0,Low-Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Haiku 5.5,A,image_only,img_027.jpg,27,Vipers,Tropidolaemus wagleri,Tropidolaemus wagleri,,2,"Trimeresurus sp. (pit viper), tentative",Undetermined because species is unidentified,"Identification: Trimeresurus sp. (pit viper), tentative
+
+Subspecies status: Undetermined because species is unidentified
+
+Confidence:
+
+- Genus: Low-Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The specimen is an arboreal viper coiled on a branch, with a black dorsum banded by bright yellow and yellow-green transverse markings and a white-edged ventral margin. The broad, triangular head with a yellow-tinged labial region suggests a pitviper, but several Asian and Neotropical arboreal vipers share this black-and-yellow banding, and the image does not show the pit, the head shields in detail, or the ventral surface. Because the species cannot be resolved, I have not assigned one.",Trimeresurus,Trimeresurus,0,Low-Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Haiku 5.5,A,image_only,img_028.jpg,28,Boas,Eunectes notaeus,Eunectes notaeus,,2,"Eunectes notaeus (yellow anaconda), tentative",Undetermined because species is unidentified,"Identification: Eunectes notaeus (yellow anaconda), tentative
+
+Subspecies status: Undetermined because species is unidentified
+
+Confidence:
+
+- Genus: Medium-High
+- Species: Low-Medium
+- Subspecies: N/A
+
+Visual evidence: The snake is heavy-bodied and held in the jaws of a jaguar, with a yellow-ochre ground colour and large black ocelli-like blotches along the body, and a dark head. The stout build and yellow-and-black blotching are consistent with an anaconda, Eunectes. The green anaconda, E. murinus, shows a more olive ground colour, and the head and the posterior body are not clearly visible, so the species call is tentative. The jaguar is not evidence for the snake's identification and is noted only as the animal holding the specimen.",Eunectes notaeus,Eunectes notaeus,0,Medium-High,Low-Medium,N/A,1,1,1,0,0,undetermined,none_recognized,0,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Haiku 5.5,A,image_only,img_029.jpg,29,Vipers,Protobothrops flavoviridis,Protobothrops flavoviridis,,2,"Morelia sp. (python), tentative",Undetermined because species is unidentified,"Identification: Morelia sp. (python), tentative
+
+Subspecies status: Undetermined because species is unidentified
+
+Confidence:
+
+- Genus: Low-Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The specimen has a cream-white ground with dark brown and black blotching and lateral markings that break into irregular patches, and a slender head with a dark stripe running back from the eye. The pale, mottled body and coiled posture suggest a pythonine, but several arboreal and terrestrial pythons and boids share cream-and-dark patterning. The photograph does not show the labial pattern, the head shields in detail, or the ventral surface, so the genus is only tentatively supported and no species can be reasonably assigned.",Morelia,Morelia,0,Low-Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Haiku 5.5,A,image_only,img_030.jpg,30,Elapids,Aspidelaps lubricus lubricus,Aspidelaps lubricus,Aspidelaps lubricus lubricus,3,"Aspidelaps scutatus (Namib shield-nosed cobra), tentative",Recognized but not identifiable,"Identification: Aspidelaps scutatus (Namib shield-nosed cobra), tentative
+
+Subspecies status: Recognized but not identifiable
+
+Confidence:
+
+- Genus: Medium-High
+- Species: Low-Medium
+- Subspecies: N/A
+
+Visual evidence: The specimen has an orange-brown head with a dark-edged snout, a broad, pale hood with dark bands on the throat and forebody, and a pale ground with dark crossbands on the lighter-coloured body. The raised, hooded posture and the shield-like head suggest Aspidelaps, but the image does not show the snout shape from the front, the head shields in detail, or the ventral surface. Other Aspidelaps species and some Naja share similar banding, so the species call is tentative.",Aspidelaps scutatus,Aspidelaps scutatus,0,Medium-High,Low-Medium,N/A,1,1,0,0,0,recognized_not_identifiable,undetermined,0,correct genus; incorrect species,0,0,0.5,1.0,
+GPT-6 Astra,B,image_only,img_001.png,1,Pythons,Simalia amethistina,Simalia amethistina,,2,Simalia sp.,Undetermined because species is unidentified,"Identification: Simalia sp.  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: High
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The large, dark-outlined head shields, elongated head, and glossy golden-brown body with irregular dark bands support a scrub python of the genus Simalia. Several species share these features, and this photograph without locality does not reliably distinguish them.",Simalia,Simalia,0,High,N/A,N/A,1,0,0,0,0,undetermined,undetermined,1,genus only,0,0,1.0,1.0,
+GPT-6 Astra,B,image_only,img_002.jpg,2,Pythons,Morelia spilota spilota,Morelia spilota,Morelia spilota spilota,3,Morelia spilota spilota,Identified: Morelia spilota spilota,"Identification: Morelia spilota spilota  
+Subspecies status: Identified: Morelia spilota spilota  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: Medium-High
+
+Visual evidence: The black ground colour with dense cream-yellow speckling and larger pale, diamond-shaped rosettes is characteristic of the diamond python. The broad head with intricate pale markings further supports this identification, although intergrades can show similar patterns.",Morelia spilota spilota,Morelia spilota spilota,0,High,High,Medium-High,1,1,1,1,1,identified,identified,1,correct subspecies,0,0,3.0,3.0,
+GPT-6 Astra,B,image_only,img_003.jpg,3,Vipers,Agkistrodon taylori,Agkistrodon taylori,,2,Agkistrodon sp.,Undetermined because species is unidentified,"Identification: Agkistrodon sp.  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: High
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The stout body, keeled scales, broad head with contrasting cream facial stripes, and orange-yellow edging around dark crossbands support Agkistrodon, particularly the cantil group. The visible pattern does not confidently distinguish Agkistrodon bilineatus from similar congeners such as A. taylori.",Agkistrodon,Agkistrodon,0,High,N/A,N/A,1,0,0,0,0,undetermined,undetermined,1,genus only,0,0,1.0,1.0,
+GPT-6 Astra,B,image_only,img_004.jpg,4,Vipers,Vipera kaznakovi,Vipera kaznakovi,,2,Protobothrops jerdonii,Recognized but not identifiable,"Identification: Protobothrops jerdonii  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: Medium-High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The strongly keeled body has bold black angular blotches against an orange-yellow background. The reddish face, contrasting pale lip scales, and yellow marking behind the eye support Protobothrops jerdonii; the photograph alone does not securely establish a subspecies.",Protobothrops jerdonii,Protobothrops jerdonii,0,Medium-High,Medium-High,N/A,0,1,0,0,0,recognized_not_identifiable,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Astra,B,image_only,img_005.jpg,5,Boas,Corallus batesii,Corallus batesii,,2,Corallus batesii,No recognized subspecies,"Identification: Corallus batesii  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The green body, broad head, yellow labials, and conspicuous lip pits identify an emerald tree boa. The connected white dorsal stripe with branching transverse markings supports Corallus batesii over C. caninus.",Corallus batesii,Corallus batesii,0,High,Medium-High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6 Astra,B,image_only,img_006.jpg,6,Elapids,Bungarus flaviceps baluensis,Bungarus flaviceps,Bungarus flaviceps baluensis,3,Oxyrhopus formosus,No recognized subspecies,"Identification: Oxyrhopus formosus  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The golden-yellow head, dark anterior body with pale scale margins, and transition to vivid red posteriorly with black crossbands strongly support Oxyrhopus formosus. Similar congeners introduce some uncertainty without locality or clearer head-scale detail.",Oxyrhopus formosus,Oxyrhopus formosus,0,High,Medium-High,N/A,0,1,0,0,0,none_recognized,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Astra,B,image_only,img_007.jpg,7,Elapids,Hemachatus haemachatus,Hemachatus haemachatus,,2,Naja sp.,Undetermined because species is unidentified,"Identification: Naja sp.  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: High
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The expanded hood, smooth scales, and head shape support Naja. The predominantly dark underside and yellow-and-black mottling along the hood and body suggest the snouted cobra group, but this view does not reliably distinguish N. annulifera from similar species such as N. anchietae.",Naja,Naja,0,High,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Astra,B,image_only,img_008.jpg,8,Colubrids,Nerodia fasciata confluens,Nerodia fasciata,Nerodia fasciata confluens,3,Nerodia fasciata,Recognized but not identifiable,"Identification: Nerodia fasciata  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: Strongly keeled scales, broad dark crossbands separated by narrower reddish-orange areas, and a dark stripe behind the eye support Nerodia fasciata. The banding suggests a broad-banded form, but locality and ventral markings would be needed for a confident subspecies identification.",Nerodia fasciata,Nerodia fasciata,0,High,Medium-High,N/A,1,1,1,0,0,recognized_not_identifiable,recognized_not_identifiable,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6 Astra,B,image_only,img_009.jpg,9,Boas,Sanzinia madagascariensis,Sanzinia madagascariensis,,2,Sanzinia madagascariensis,No recognized subspecies,"Identification: Sanzinia madagascariensis  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The olive-green body with dark, pale-centred blotches, broad head with small scales, and strong dark marking behind the eye support Sanzinia madagascariensis. The green coloration favours this species over S. volontany, although their appearance can overlap.",Sanzinia madagascariensis,Sanzinia madagascariensis,0,High,Medium-High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6 Astra,B,image_only,img_010.jpg,10,Colubrids,Boiga melanota,Boiga melanota,,2,Boiga dendrophila,Recognized but not identifiable,"Identification: Boiga dendrophila  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The glossy black body with narrow yellow crossbands, bright yellow labials separated by black sutures, and distinct broad head are characteristic of Boiga dendrophila. The visible pattern alone does not securely establish a subspecies.",Boiga dendrophila,Boiga melanota,1,High,High,N/A,1,1,1,0,0,recognized_not_identifiable,none_recognized,0,correct species; no validated subspecies,0,0,2.0,2.0,Former broad taxonomy: Boiga dendrophila / B. d. melanota accepted for B. melanota at species level; no extra subspecies point
+GPT-6 Astra,B,image_only,img_011.jpg,11,Elapids,Pseudechis porphyriacus,Pseudechis porphyriacus,,2,Pseudechis porphyriacus,No recognized subspecies,"Identification: Pseudechis porphyriacus  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The glossy black upper surface, vivid red lower flanks with dark scale edges, and slightly distinct, rounded head are characteristic of Pseudechis porphyriacus. The visible combination strongly supports the red-bellied black snake.",Pseudechis porphyriacus,Pseudechis porphyriacus,0,High,High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6 Astra,B,image_only,img_012.jpg,12,Colubrids,Ptyas nigromarginata,Ptyas nigromarginata,,2,Elaphe taeniura,Recognized but not identifiable,"Identification: Elaphe taeniura  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The olive-green anterior body transitions into a strongly striped black-and-cream posterior body and tail, characteristic of Elaphe taeniura. The bronze head and dark stripe behind the eye also support this identification, but coloration alone does not reliably establish the subspecies.",Elaphe taeniura,Elaphe taeniura,0,High,High,N/A,0,1,0,0,0,recognized_not_identifiable,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Astra,B,image_only,img_013.jpg,13,Elapids,Naja samarensis,Naja samarensis,,2,Naja nivea,No recognized subspecies,"Identification: Naja nivea  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium
+- Subspecies: N/A
+
+Visual evidence: The yellow body densely marked with dark scale centres, yellow head, and dark throat patch beneath a yellow chin support Naja nivea. Other African cobras can show similar coloration, so the frontal view and absence of locality limit species confidence.",Naja nivea,Naja nivea,0,High,Medium,N/A,1,1,0,0,0,none_recognized,undetermined,0,correct genus; incorrect species,0,0,0.5,1.0,
+GPT-6 Astra,B,image_only,img_014.jpg,14,Elapids,Calliophis bivirgatus flaviceps,Calliophis bivirgatus,Calliophis bivirgatus flaviceps,3,Calliophis bivirgatus,Recognized but not identifiable,"Identification: Calliophis bivirgatus  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The vivid red head and tail, dark blue-black body, and bright blue longitudinal flank stripes are characteristic of Calliophis bivirgatus. The photograph does not provide sufficient evidence to assign a subspecies confidently.",Calliophis bivirgatus,Calliophis bivirgatus,0,High,High,N/A,1,1,1,0,0,recognized_not_identifiable,recognized_not_identifiable,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6 Astra,B,image_only,img_015.jpg,15,Vipers,Azemiops feae,Azemiops feae,,2,Azemiops kharini,No recognized subspecies,"Identification: Azemiops kharini  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The dark body with widely spaced, narrow orange crossbands and a broad, predominantly cream-white head support Azemiops kharini. The pale head with limited darker markings favours this species over A. feae.",Azemiops kharini,Azemiops feae,1,High,Medium-High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,Azemiops kharini accepted as synonym under pilot policy
+GPT-6 Astra,B,image_only,img_016.jpg,16,Colubrids,Zamenis situla,Zamenis situla,,2,Zamenis situla,No recognized subspecies,"Identification: Zamenis situla  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The grey ground colour with black-bordered reddish dorsal blotches and smaller dark flank spots is characteristic of Zamenis situla. The dark transverse head marking and stripe through the eye further support this identification.",Zamenis situla,Zamenis situla,0,High,High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6 Astra,B,image_only,img_017.jpg,17,Elapids,Acanthophis rugosus,Acanthophis rugosus,,2,Acanthophis pyrrhus,No recognized subspecies,"Identification: Acanthophis pyrrhus  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The broad triangular head, stout body, and abruptly slender tail with a pale lure tip identify a death adder. The reddish-orange coloration, numerous narrow crossbands, and rough-looking dorsal scales favour Acanthophis pyrrhus, although other Acanthophis can overlap in colour.",Acanthophis pyrrhus,Acanthophis pyrrhus,0,High,Medium-High,N/A,1,1,0,0,0,none_recognized,undetermined,0,correct genus; incorrect species,0,0,0.5,1.0,
+GPT-6 Astra,B,image_only,img_018.jpg,18,Colubrids,Thelotornis capensis,Thelotornis capensis,,2,Thelotornis sp.,Undetermined because species is unidentified,"Identification: Thelotornis sp.  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: High
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The slender body, elongated pointed head, contrasting facial stripe, and inflated neck with exposed black-and-white markings strongly support Thelotornis. The mottled grey-brown pattern is shared by several species, which cannot be reliably separated from this view without locality or finer diagnostic details.",Thelotornis,Thelotornis,0,High,N/A,N/A,1,0,0,0,0,undetermined,undetermined,1,genus only,0,0,1.0,1.0,
+GPT-6 Astra,B,image_only,img_019.jpg,19,Pythons,Malayopython timoriensis,Malayopython timoriensis,,2,Chilabothrus subflavus,No recognized subspecies,"Identification: Chilabothrus subflavus  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: Medium-High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The golden-yellow head and anterior body with irregular black markings, transitioning into a much darker, nearly unpatterned posterior body, support Chilabothrus subflavus. The photograph’s resolution limits assessment of finer head-scale details.",Chilabothrus subflavus,Chilabothrus subflavus,0,Medium-High,Medium-High,N/A,0,1,0,0,0,none_recognized,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Astra,B,image_only,img_020.jpg,20,Colubrids,Thamnophis sirtalis tetrataenia,Thamnophis sirtalis,Thamnophis sirtalis tetrataenia,3,Thamnophis sirtalis tetrataenia,Identified: Thamnophis sirtalis tetrataenia,"Identification: Thamnophis sirtalis tetrataenia  
+Subspecies status: Identified: Thamnophis sirtalis tetrataenia  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: High
+
+Visual evidence: The red head, pale turquoise dorsal stripe, continuous red side stripes bordered by black, and blue lower flanks are characteristic of Thamnophis sirtalis tetrataenia. The continuous red striping particularly supports this subspecies over other red-sided forms.",Thamnophis sirtalis tetrataenia,Thamnophis sirtalis tetrataenia,0,High,High,High,1,1,1,1,1,identified,identified,1,correct subspecies,0,0,3.0,3.0,
+GPT-6 Astra,B,image_only,img_021.jpg,21,Pythons,Aspidites ramsayi,Aspidites ramsayi,,2,Aspidites ramsayi,No recognized subspecies,"Identification: Aspidites ramsayi  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The stout body with numerous muted brown crossbands, narrow golden-brown head, and dark markings around the eyes are characteristic of Aspidites ramsayi. The head lacks the extensive black coloration typical of A. melanocephalus.",Aspidites ramsayi,Aspidites ramsayi,0,High,High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6 Astra,B,image_only,img_022.jpg,22,Boas,Eryx jayakari,Eryx jayakari,,2,Eryx sp.,Undetermined because species is unidentified,"Identification: Eryx sp.  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: High
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The thick cylindrical body, small head scarcely distinct from the neck, short blunt tail, and irregular brown-on-orange blotching support a sand boa of the genus Eryx. Several species share this appearance, and the photograph does not resolve the head and tail scalation needed for a reliable species identification.",Eryx,Eryx,0,High,N/A,N/A,1,0,0,0,0,undetermined,undetermined,1,genus only,0,0,1.0,1.0,
+GPT-6 Astra,B,image_only,img_023.jpg,23,Boas,Candoia paulsoni paulsoni,Candoia paulsoni,Candoia paulsoni paulsoni,3,Candoia sp.,Undetermined because species is unidentified,"Identification: Candoia sp.  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Medium-High
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The angular, wedge-shaped head and cream body with irregular, dark-edged brown markings support Candoia. The partly obscured body and limited head detail do not reliably distinguish among the patterned species in this genus.",Candoia,Candoia,0,Medium-High,N/A,N/A,1,0,0,0,0,undetermined,undetermined,1,genus only,0,0,1.0,1.0,
+GPT-6 Astra,B,image_only,img_024.jpg,24,Pythons,Leiopython albertisii,Leiopython albertisii,,2,Leiopython albertisii,No recognized subspecies,"Identification: Leiopython albertisii  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The glossy black head, sharply contrasting white labial scales, and unpatterned golden-brown, iridescent body support Leiopython albertisii. Similar white-lipped pythons can overlap in appearance, but the pronounced golden coloration favours this species.",Leiopython albertisii,Leiopython albertisii,0,High,Medium-High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6 Astra,B,image_only,img_025.jpg,25,Colubrids,Thamnophis sirtalis infernalis,Thamnophis sirtalis,Thamnophis sirtalis infernalis,3,Thamnophis sirtalis infernalis,Identified: Thamnophis sirtalis infernalis,"Identification: Thamnophis sirtalis infernalis  
+Subspecies status: Identified: Thamnophis sirtalis infernalis  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: Medium-High
+
+Visual evidence: The reddish head, pale dorsal stripe, and vivid red flank markings interrupted by black bars support Thamnophis sirtalis infernalis. The broken red pattern is characteristic, although other red-sided populations can overlap in appearance.",Thamnophis sirtalis infernalis,Thamnophis sirtalis infernalis,0,High,High,Medium-High,1,1,1,1,1,identified,identified,1,correct subspecies,0,0,3.0,3.0,
+GPT-6 Astra,B,image_only,img_026.jpg,26,Vipers,Bitis nasicornis,Bitis nasicornis,,2,Bitis nasicornis,No recognized subspecies,"Identification: Bitis nasicornis  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The cluster of upright nasal horns, broad head, strongly keeled scales, and intricate multicoloured geometric pattern are diagnostic of Bitis nasicornis. The exceptionally stout body further supports this identification.",Bitis nasicornis,Bitis nasicornis,0,High,High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6 Astra,B,image_only,img_027.jpg,27,Vipers,Tropidolaemus wagleri,Tropidolaemus wagleri,,2,Tropidolaemus wagleri,No recognized subspecies,"Identification: Tropidolaemus wagleri  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The broad triangular head, stout arboreal body, and black coloration crossed by narrow yellow bands are characteristic of an adult female Tropidolaemus wagleri. Yellow lips and pale, black-edged scales along the lower flanks further support the identification.",Tropidolaemus wagleri,Tropidolaemus wagleri,0,High,High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6 Astra,B,image_only,img_028.jpg,28,Boas,Eunectes notaeus,Eunectes notaeus,,2,Eunectes notaeus,No recognized subspecies,"Identification: Eunectes notaeus  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The heavy body, yellow ground colour, large dark dorsal blotches, and dense irregular flank markings support Eunectes notaeus. The head is obscured, limiting confirmation from head shape and scalation.",Eunectes notaeus,Eunectes notaeus,0,High,Medium-High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6 Astra,B,image_only,img_029.jpg,29,Vipers,Protobothrops flavoviridis,Protobothrops flavoviridis,,2,Morelia spilota,Recognized but not identifiable,"Identification: Morelia spilota  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The intricate cream-and-dark blotching, broad head with symmetrical dark markings, and visible labial pits support Morelia spilota. Pattern variation and overlap among its subspecies prevent a confident subspecies assignment from this photograph alone.",Morelia spilota,Morelia spilota,0,High,High,N/A,0,1,0,0,0,recognized_not_identifiable,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Astra,B,image_only,img_030.jpg,30,Elapids,Aspidelaps lubricus lubricus,Aspidelaps lubricus,Aspidelaps lubricus lubricus,3,Aspidelaps lubricus,Recognized but not identifiable,"Identification: Aspidelaps lubricus  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The orange-and-cream body with narrow dark crossbands, dark throat bands, and enlarged upturned rostral scale strongly support Aspidelaps lubricus. The photograph does not securely establish a subspecies.",Aspidelaps lubricus,Aspidelaps lubricus,0,High,High,N/A,1,1,1,0,0,recognized_not_identifiable,recognized_not_identifiable,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_001.png,1,Pythons,Simalia amethistina,Simalia amethistina,,2,Morelia amethistina,Recognized but not identifiable,"Identification: Morelia amethistina
+
+Subspecies status: Recognized but not identifiable
+
+Confidence:
+
+- Genus: Medium-High
+- Species: Medium-High
+- Subspecies: N/A
+
+- Visual evidence: The snake displays a yellowish-brown dorsal pattern with dark, irregular chain-like markings and large symmetrical head shields on the snout. Faint iridescent blue highlights are visible along the midbody scales while coiled among green vegetation. Due to the absence of geographic locality data and overlapping morphological traits, subspecific distinction is not feasible.",Morelia amethistina,Simalia amethistina,1,Medium-High,Medium-High,N/A,1,1,1,0,0,recognized_not_identifiable,none_recognized,0,correct species; no validated subspecies,0,0,2.0,2.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_002.jpg,2,Pythons,Morelia spilota spilota,Morelia spilota,Morelia spilota spilota,3,Morelia spilota,Recognized but not identifiable,"Identification: Morelia spilota
+
+Subspecies status: Recognized but not identifiable
+
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+- Visual evidence: The snake displays a dark dorsal background densely covered with small yellow or white spots and markings across its scales, characteristic of a carpet or diamond python. It is coiled upon a wooden slatted surface, revealing a tapering tail and distinct head structure. Due to the presence of multiple recognized subspecies and intergrade forms with overlapping color variations, subspecific identification is not reliably attainable without geographic data.",Morelia spilota,Morelia spilota,0,High,High,N/A,1,1,1,0,0,recognized_not_identifiable,recognized_not_identifiable,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_003.jpg,3,Vipers,Agkistrodon taylori,Agkistrodon taylori,,2,Agkistrodon taylori,No recognized subspecies,"Identification: Agkistrodon taylori
+
+Subspecies status: No recognized subspecies
+
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+- Visual evidence: The snake exhibits a stout body with jet-black dorsal coloration marked by vibrant, high-contrast yellow-orange crossbands. The head is broad and distinct with characteristic pit viper facial markings and pale striping. These striking color and pattern combinations are diagnostic for Taylor's cantil.",Agkistrodon taylori,Agkistrodon taylori,0,High,Medium-High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_004.jpg,4,Vipers,Vipera kaznakovi,Vipera kaznakovi,,2,Vipera berus,Recognized but not identifiable,"Identification: Vipera berus
+
+Subspecies status: Recognized but not identifiable
+
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+- Visual evidence: The snake displays a distinct dark zig-zag dorsal pattern contrasting against a bright orange-red background, which is characteristic of the common adder. The head is triangular and distinct from the neck with dark facial markings typical of viperids. Because multiple recognized subspecies and color morphs overlap in appearance and require geographic data for separation, subspecific identification cannot be reliably determined.",Vipera berus,Vipera berus,0,High,High,N/A,1,1,0,0,0,recognized_not_identifiable,undetermined,0,correct genus; incorrect species,0,0,0.5,1.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_005.jpg,5,Boas,Corallus batesii,Corallus batesii,,2,Corallus caninus,No recognized subspecies,"Identification: Corallus caninus
+
+Subspecies status: No recognized subspecies
+
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+- Visual evidence: The snake exhibits vibrant green dorsal coloration marked by a distinctive series of white, irregular vertebral blotches and a bright yellow underside and labial region. The head is large and distinct, coiled tightly around a branch in a characteristic ambush posture.",Corallus caninus,Corallus caninus,0,High,High,N/A,1,1,0,0,0,none_recognized,undetermined,0,correct genus; incorrect species,0,0,0.5,1.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_006.jpg,6,Elapids,Bungarus flaviceps baluensis,Bungarus flaviceps,Bungarus flaviceps baluensis,3,Clelia clelia,Recognized but not identifiable,"Identification: Clelia clelia
+
+Subspecies status: Recognized but not identifiable
+
+Confidence:
+
+- Genus: Medium-High
+- Species: Medium
+- Subspecies: N/A
+
+- Visual evidence: The snake displays a yellowish head contrasting with a dark dorsal body where individual scales feature pale margins, creating a reticulated pattern. The posterior section of the body and tail transition into distinct red, black, and white banding. Due to ontogenetic color variations and overlapping morphological characteristics among related taxa without geographic locality data, subspecific status cannot be reliably determined.",Clelia clelia,Clelia clelia,0,Medium-High,Medium,N/A,0,1,0,0,0,recognized_not_identifiable,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_007.jpg,7,Elapids,Hemachatus haemachatus,Hemachatus haemachatus,,2,Naja,Undetermined because species is unidentified,"Identification: Naja
+
+Subspecies status: Undetermined because species is unidentified
+
+Confidence:
+
+- Genus: Medium-High
+- Species: N/A
+- Subspecies: N/A
+
+- Visual evidence: The snake displays an extended hood with a dark throat and yellowish-spotted lateral margins, along with a dark patterned dorsal body and a flicking tongue. While these features clearly identify the specimen as a cobra within the genus Naja, distinguishing between similar species requires geographic data that is unavailable.",Naja,Naja,0,Medium-High,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_008.jpg,8,Colubrids,Nerodia fasciata confluens,Nerodia fasciata,Nerodia fasciata confluens,3,Nerodia fasciata,Recognized but not identifiable,"Identification: Nerodia fasciata
+
+Subspecies status: Recognized but not identifiable
+
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+- Visual evidence: The snake displays a stout body with dark crossbands over a reddish-brown ground color and a distinct dark stripe running from the eye to the angle of the jaw. These characteristics are typical of North American watersnakes in the genus Nerodia. Because several recognized subspecies share overlapping color patterns and require geographic data for reliable separation, subspecific identification is not feasible.",Nerodia fasciata,Nerodia fasciata,0,High,Medium-High,N/A,1,1,1,0,0,recognized_not_identifiable,recognized_not_identifiable,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_009.jpg,9,Boas,Sanzinia madagascariensis,Sanzinia madagascariensis,,2,Candoia aspera,No recognized subspecies,"Identification: Candoia aspera
+
+Subspecies status: No recognized subspecies
+
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+- Visual evidence: The snake exhibits a robust, heavy-bodied form with extremely rough, heavily keeled dorsal scales and a broad head marked by a dark postocular band. The color pattern consists of dark, irregular blotches set against an olive-brown background. These distinctive morphological traits are characteristic of the New Guinea ground boa.",Candoia aspera,Candoia aspera,0,High,Medium-High,N/A,0,1,0,0,0,none_recognized,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_010.jpg,10,Colubrids,Boiga melanota,Boiga melanota,,2,Spilotes pullatus,Recognized but not identifiable,"Identification: Spilotes pullatus
+
+Subspecies status: Recognized but not identifiable
+
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+- Visual evidence: The snake displays a glossy black dorsal coloration marked with striking yellow vertical blotches and bands along the body, accompanied by a bright yellow head underside and labial region. These features are characteristic of the tiger ratsnake. Due to the presence of recognized subspecies with overlapping color variations and the lack of geographic locality data, subspecific identification cannot be reliably determined.",Spilotes pullatus,Spilotes pullatus,0,High,Medium-High,N/A,0,1,0,0,0,recognized_not_identifiable,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_011.jpg,11,Elapids,Pseudechis porphyriacus,Pseudechis porphyriacus,,2,Pseudechis porphyriacus,No recognized subspecies,"Identification: Pseudechis porphyriacus
+
+Subspecies status: No recognized subspecies
+
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+- Visual evidence: The snake exhibits a glossy black dorsal coloration with vivid red-orange pigmentation visible along the lower lateral scales and ventral margins. It is positioned among rocky terrain near a discarded shed skin. These distinctive features are characteristic of the red-bellied black snake.",Pseudechis porphyriacus,Pseudechis porphyriacus,0,High,High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_012.jpg,12,Colubrids,Ptyas nigromarginata,Ptyas nigromarginata,,2,Spilotes sulphureus,Recognized but not identifiable,"Identification: Spilotes sulphureus
+
+Subspecies status: Recognized but not identifiable
+
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+- Visual evidence: The snake displays a striking bicolored pattern, featuring a vibrant green head and anterior body that transitions sharply into a black midbody and tail marked with prominent white-edged scales. The bright yellow labial region and slender, elongated body form are characteristic of this large arboreal colubrid. Because recognized subspecies or regional morphs share overlapping morphological traits and geographic data is unavailable, subspecific identification cannot be reliably determined.",Spilotes sulphureus,Spilotes sulphureus,0,High,Medium-High,N/A,0,1,0,0,0,recognized_not_identifiable,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_013.jpg,13,Elapids,Naja samarensis,Naja samarensis,,2,Naja naja,No recognized subspecies,"Identification: Naja naja
+
+Subspecies status: No recognized subspecies
+
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+- Visual evidence: The snake displays an erect posture with an expanded hood, showing a dark throat band and light-bordered ventral scales characteristic of the spectacled cobra. The dorsal scales are finely speckled over a brownish-yellow ground pattern. Without geographic locality data, the identification is based on classic morphological features of the species.",Naja naja,Naja naja,0,High,Medium-High,N/A,1,1,0,0,0,none_recognized,undetermined,0,correct genus; incorrect species,0,0,0.5,1.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_014.jpg,14,Elapids,Calliophis bivirgatus flaviceps,Calliophis bivirgatus,Calliophis bivirgatus flaviceps,3,Calliophis bivirgatus,Recognized but not identifiable,"Identification: Calliophis bivirgatus
+
+Subspecies status: Recognized but not identifiable
+
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+- Visual evidence: The snake exhibits an electric blue dorsal body contrasting with a bright red head and tail, accompanied by pale blue-white lateral flanks. These striking colors and slender proportions are diagnostic for the blue coral snake. Because multiple recognized subspecies share overlapping characteristics and geographic locality data is absent, subspecific identification cannot be reliably determined.",Calliophis bivirgatus,Calliophis bivirgatus,0,High,High,N/A,1,1,1,0,0,recognized_not_identifiable,recognized_not_identifiable,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_015.jpg,15,Vipers,Azemiops feae,Azemiops feae,,2,Sibon annulatus,Recognized but not identifiable,"Identification: Sibon annulatus
+
+Subspecies status: Recognized but not identifiable
+
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+- Visual evidence: The snake exhibits a dark, blackish dorsal body marked with narrow, vivid orange-yellow rings and a distinctively pale, heavily patterned yellowish head. The slender, slightly compressed body form is characteristic of a snail-eating snake. Because multiple recognized subspecies share overlapping variations and geographic locality data is unavailable, subspecific identification cannot be reliably determined.",Sibon annulatus,Sibon annulatus,0,High,Medium-High,N/A,0,1,0,0,0,recognized_not_identifiable,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_016.jpg,16,Colubrids,Zamenis situla,Zamenis situla,,2,Zamenis situla,No recognized subspecies,"Identification: Zamenis situla
+
+Subspecies status: No recognized subspecies
+
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+- Visual evidence: The snake displays vibrant reddish-orange dorsal blotches outlined in black against a greyish-white background, accompanied by distinct dark head markings including a band across the snout. These diagnostic color patterns and features are characteristic of the leopard snake.",Zamenis situla,Zamenis situla,0,High,High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_017.jpg,17,Elapids,Acanthophis rugosus,Acanthophis rugosus,,2,Acanthophis pyrrhus,No recognized subspecies,"Identification: Acanthophis pyrrhus
+
+Subspecies status: No recognized subspecies
+
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+- Visual evidence: The snake displays a stout, heavy body with a reddish-orange ground coloration, prominent dark crossbands, and strongly keeled scales characteristic of the desert death adder. The broad, triangular head and the distinctively tapering tail tip further support this identification.",Acanthophis pyrrhus,Acanthophis pyrrhus,0,High,Medium-High,N/A,1,1,0,0,0,none_recognized,undetermined,0,correct genus; incorrect species,0,0,0.5,1.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_018.jpg,18,Colubrids,Thelotornis capensis,Thelotornis capensis,,2,Dasypeltis scabra,No recognized subspecies,"Identification: Dasypeltis scabra
+
+Subspecies status: No recognized subspecies
+
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+- Visual evidence: The snake is exhibiting a defensive posture on a dirt road, flattening its neck and widening its head to mimic a venomous viper, complete with dark head and neck markings. The keeled scales and slender body proportions are characteristic of the common egg-eating snake.",Dasypeltis scabra,Dasypeltis scabra,0,High,Medium-High,N/A,0,1,0,0,0,none_recognized,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_019.jpg,19,Pythons,Malayopython timoriensis,Malayopython timoriensis,,2,Morelia oenpelliensis,No recognized subspecies,"Identification: Morelia oenpelliensis
+
+Subspecies status: No recognized subspecies
+
+Confidence:
+
+- Genus: Medium-High
+- Species: Medium
+- Subspecies: N/A
+
+- Visual evidence: The snake displays a robust, heavy-bodied form with a distinct pattern transition from an anterior yellowish-brown section marked with dark, irregular blotches to a uniform dark grey-brown posterior body and tail. The broad head features large symmetrical scales characteristic of this rare python species.",Morelia oenpelliensis,Morelia oenpelliensis,0,Medium-High,Medium,N/A,0,1,0,0,0,none_recognized,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_020.jpg,20,Colubrids,Thamnophis sirtalis tetrataenia,Thamnophis sirtalis,Thamnophis sirtalis tetrataenia,3,Thamnophis sirtalis,Recognized but not identifiable,"Identification: Thamnophis sirtalis
+
+Subspecies status: Recognized but not identifiable
+
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+- Visual evidence: The snake displays a striking coloration consisting of a reddish head, a vivid red central dorsal stripe flanked by dark stripes, and brilliant turquoise-blue lateral stripes along the body. These features are characteristic of garter snakes within the species Thamnophis sirtalis. Because recognized subspecies share overlapping color variations and geographic locality data is unavailable, subspecific identification cannot be reliably determined.",Thamnophis sirtalis,Thamnophis sirtalis,0,High,Medium-High,N/A,1,1,1,0,0,recognized_not_identifiable,recognized_not_identifiable,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_021.jpg,21,Pythons,Aspidites ramsayi,Aspidites ramsayi,,2,Aspidites ramsayi,No recognized subspecies,"Identification: Aspidites ramsayi
+
+Subspecies status: No recognized subspecies
+
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+- Visual evidence: The snake displays a robust, muscular body marked with distinct dark crossbands over a lighter brownish-grey background. The smooth, yellowish-brown head lacks infrared-sensing pit organs, which is a key diagnostic feature of the genus Aspidites. These morphological traits and coloration patterns are characteristic of the woma python.",Aspidites ramsayi,Aspidites ramsayi,0,High,Medium-High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_022.jpg,22,Boas,Eryx jayakari,Eryx jayakari,,2,Eryx miliaris,Recognized but not identifiable,"Identification: Eryx miliaris
+
+Subspecies status: Recognized but not identifiable
+
+Confidence:
+
+- Genus: High
+- Species: Medium
+- Subspecies: N/A
+
+- Visual evidence: The snake displays a stout, cylindrical body with a short, blunt tail and a small head featuring dorsolaterally positioned eyes. The dorsal pattern consists of irregular orange-brown blotches over a pale sandy-beige background, which is characteristic of sand boas within the genus Eryx. Because recognized subspecies share overlapping color variations and geographic locality data is unavailable, subspecific identification cannot be reliably determined.",Eryx miliaris,Eryx miliaris,0,High,Medium,N/A,1,1,0,0,0,recognized_not_identifiable,undetermined,0,correct genus; incorrect species,0,0,0.5,1.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_023.jpg,23,Boas,Candoia paulsoni paulsoni,Candoia paulsoni,Candoia paulsoni paulsoni,3,Corallus annulatus,Recognized but not identifiable,"Identification: Corallus annulatus
+
+Subspecies status: Recognized but not identifiable
+
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+- Visual evidence: The snake is positioned arboreally, coiled against a vertical tree trunk in a forested environment. It exhibits a slender, laterally compressed body with a pale whitish-grey ground coloration marked by dark, jagged, saddle-like dorsal blotches. These morphological traits are characteristic of the annulated tree boa within the genus Corallus. Because recognized subspecies share overlapping color variations and geographic locality data is unavailable, subspecific identification cannot be reliably determined.",Corallus annulatus,Corallus annulatus,0,High,Medium-High,N/A,0,1,0,0,0,recognized_not_identifiable,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_024.jpg,24,Pythons,Leiopython albertisii,Leiopython albertisii,,2,Leiopython albertisii,Recognized but not identifiable,"Identification: Leiopython albertisii
+
+Subspecies status: Recognized but not identifiable
+
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+- Visual evidence: The snake displays a dark, glossy head featuring distinct white vertical banding along the labial scales, contrasting sharply with an iridescent dark brown to olive-brown dorsal body and bright yellowish lower flanks. These diagnostic features are characteristic of the white-lipped python. Because recognized subspecies or regional lineages share overlapping morphological traits and geographic locality data is unavailable, subspecific identification cannot be reliably determined.",Leiopython albertisii,Leiopython albertisii,0,High,Medium-High,N/A,1,1,1,0,0,recognized_not_identifiable,none_recognized,0,correct species; no validated subspecies,0,0,2.0,2.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_025.jpg,25,Colubrids,Thamnophis sirtalis infernalis,Thamnophis sirtalis,Thamnophis sirtalis infernalis,3,Thamnophis sirtalis,Recognized but not identifiable,"Identification: Thamnophis sirtalis
+
+Subspecies status: Recognized but not identifiable
+
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+- Visual evidence: The snake displays a vibrant red head, a pale yellowish-green central dorsal stripe, and striking red lateral markings interspersed with dark blocks along the body. These features are characteristic of garter snakes within the species Thamnophis sirtalis. Because recognized subspecies share overlapping color variations and geographic locality data is unavailable, subspecific identification cannot be reliably determined.",Thamnophis sirtalis,Thamnophis sirtalis,0,High,Medium-High,N/A,1,1,1,0,0,recognized_not_identifiable,recognized_not_identifiable,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_026.jpg,26,Vipers,Bitis nasicornis,Bitis nasicornis,,2,Bitis nasicornis,No recognized subspecies,"Identification: Bitis nasicornis
+
+Subspecies status: No recognized subspecies
+
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+- Visual evidence: The snake is positioned arboreally on a branch in a dark environment. It displays a heavy, robust body with an intricate dorsal pattern of bright green, red, brown, and blue geometric markings, as well as distinctive elongated horn-like scales on the snout that are characteristic of the rhinoceros viper.",Bitis nasicornis,Bitis nasicornis,0,High,High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_027.jpg,27,Vipers,Tropidolaemus wagleri,Tropidolaemus wagleri,,2,Tropidolaemus wagleri,No recognized subspecies,"Identification: Tropidolaemus wagleri
+
+Subspecies status: No recognized subspecies
+
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+- Visual evidence: The snake is positioned arboreally on a branch. It displays a heavy, robust body with a striking pattern of black dorsal coloration broken by vibrant yellow crossbands, a broad triangular head, and vertical pupils characteristic of pit vipers within the genus Tropidolaemus.",Tropidolaemus wagleri,Tropidolaemus wagleri,0,High,Medium-High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_028.jpg,28,Boas,Eunectes notaeus,Eunectes notaeus,,2,Eunectes notaeus,No recognized subspecies,"Identification: Eunectes notaeus
+
+Subspecies status: No recognized subspecies
+
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+- Visual evidence: The snake displays a heavy, robust, muscular body with a distinct yellowish ground coloration overlaid with dark blackish-brown spots, blotches, and rosettes characteristic of the yellow anaconda. These morphological features and color patterns are typical of boid snakes within the genus Eunectes, shown here in an interaction with a jaguar.",Eunectes notaeus,Eunectes notaeus,0,High,Medium-High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_029.jpg,29,Vipers,Protobothrops flavoviridis,Protobothrops flavoviridis,,2,Leptodeira annulata,Recognized but not identifiable,"Identification: Leptodeira annulata
+
+Subspecies status: Recognized but not identifiable
+
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+- Visual evidence: The snake displays a slender, coiled body on a bed of dry leaves, featuring a pale grayish-white ground pattern overlaid with dark, chain-like or blotched dark dorsal markings and distinctive longitudinal head stripes. These traits are characteristic of cat-eyed snakes within the genus Leptodeira. Because recognized subspecies share overlapping pattern variations and geographic locality data is unavailable, subspecific identification cannot be reliably determined.",Leptodeira annulata,Leptodeira annulata,0,High,Medium-High,N/A,0,1,0,0,0,recognized_not_identifiable,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+Gemini 3.5 Flash-Lite,C,image_only,img_030.jpg,30,Elapids,Aspidelaps lubricus lubricus,Aspidelaps lubricus,Aspidelaps lubricus lubricus,3,Aspidelaps scutatus,Recognized but not identifiable,"Identification: Aspidelaps scutatus
+
+Subspecies status: Recognized but not identifiable
+
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+- Visual evidence: The snake is displaying a defensive hood-flattening posture on sandy ground, featuring a distinctive enlarged, shield-like nasal scale on the snout characteristic of shield-nosed cobras. It exhibits a bright orange-yellow body marked with dark crossbands and prominent dark throat bands. Because recognized subspecies share overlapping variations and geographic locality data is unavailable, subspecific identification cannot be reliably determined.",Aspidelaps scutatus,Aspidelaps scutatus,0,High,Medium-High,N/A,1,1,0,0,0,recognized_not_identifiable,undetermined,0,correct genus; incorrect species,0,0,0.5,1.0,
+Claude Sonnet 5.5,D,image_only,img_001.png,1,Pythons,Simalia amethistina,Simalia amethistina,,2,Simalia kinghorni,No recognized subspecies,"Identification: Simalia kinghorni  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A  
+    Visual evidence: The head carries large, regular, symmetrical scutes on the crown and snout, with heat-sensing labial pits visible along the lip margins, and the body is covered in small, smooth scales with a tan to golden ground colour overlaid by dark reticulate blotching. This combination fits the large-scaled-head arboreal python group formerly placed in Morelia, and the pattern, scalation and build favour the Scrub Python (Simalia kinghorni, formerly Morelia amethistina kinghorni) over Simalia amethistina, but I cannot exclude other Simalia taxa from the photograph alone, since distinguishing these species depends heavily on locality and fine scale counts.",Simalia kinghorni,Simalia kinghorni,0,High,Medium-High,N/A,1,1,0,0,0,none_recognized,undetermined,0,correct genus; incorrect species,0,0,0.5,1.0,
+Claude Sonnet 5.5,D,image_only,img_002.jpg,2,Pythons,Morelia spilota spilota,Morelia spilota,Morelia spilota spilota,3,Morelia spilota (Diamond Python),Identified: Morelia spilota spilota,"Identification: Morelia spilota (Diamond Python)  
+Subspecies status: Identified: Morelia spilota spilota  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: Medium  
+    Visual evidence: The dark olive to black body is covered in small, pale cream to yellow scale-centred flecks that form a diamond-like lattice pattern, with a darker head bearing pale mottling and small, fairly uniform head scales, all consistent with the Diamond Python (Morelia spilota spilota). The pale-flecked, dark-ground pattern separates it from the Carpet Python subspecies with bolder blotched or banded patterns (such as M. s. mcdowelli or M. s. cheynei), but intergrade and hybrid forms occur where ranges meet, and the photograph alone cannot exclude them.",Morelia spilota spilota,Morelia spilota spilota,0,High,High,Medium,1,1,1,1,1,identified,identified,1,correct subspecies,0,0,3.0,3.0,Subspecies explicitly identified in status field
+Claude Sonnet 5.5,D,image_only,img_003.jpg,3,Vipers,Agkistrodon taylori,Agkistrodon taylori,,2,Hypsiglena (formerly Bothrops) — correction: Bothriechis schlegelii is not supported; the most defensible identification is Bothriechis nigroviridis? No. Final: Bothrops (Bothriopsis) is not supported either. Final answer: Atropoides | Cerrophidion,Undetermined because species is unidentified,"Identification: Hypsiglena (formerly Bothrops) — correction: Bothriechis schlegelii is not supported; the most defensible identification is Bothriechis nigroviridis? No. Final: Bothrops (Bothriopsis) is not supported either. Final answer: Atropoides
+
+Let me restate this cleanly.
+
+Identification: Cerrophidion  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Low-Medium
+- Species: N/A
+- Subspecies: N/A  
+    Visual evidence: The snake is a stout-bodied, keeled-scaled viperid with a black ground colour crossed by widely spaced orange to yellow, black-edged chevron-shaped bands that are brightest along the flanks, and a dark head with a pale, white-edged stripe along the upper lip. This banded black pattern is consistent with a highland Middle American pitviper such as Cerrophidion (for example the Cerrophidion godmani complex or related melanistic forms), but I cannot exclude Atropoides, Bothriechis or Metlapilcoatlus from this image alone, since the head shape and pit are not clearly visible and these genera overlap in appearance.",Cerrophidion,Cerrophidion,0,Low-Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,Final restated identification after self-corrections
+Claude Sonnet 5.5,D,image_only,img_004.jpg,4,Vipers,Vipera kaznakovi,Vipera kaznakovi,,2,Vipera berus,Recognized but not identifiable,"Identification: Vipera berus  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A  
+    Visual evidence: The stout body carries a dark, continuous zigzag dorsal band on a tan to orange-brown ground colour, with dark lateral blotches and a reddish eye with a vertical pupil visible on a small, rounded head, all typical of the Common Adder. The orange ground colour and strongly contrasting pattern are consistent with a female or a warm-toned individual, but other Palearctic Vipera with zigzag patterns (such as V. seoanei, V. aspis or V. ursinii) cannot be fully excluded without locality or clear head-scale detail, and subspecies of V. berus depend largely on geographic origin.",Vipera berus,Vipera berus,0,High,Medium-High,N/A,1,1,0,0,0,recognized_not_identifiable,undetermined,0,correct genus; incorrect species,0,0,0.5,1.0,
+Claude Sonnet 5.5,D,image_only,img_005.jpg,5,Boas,Corallus batesii,Corallus batesii,,2,Corallus batesii,No recognized subspecies,"Identification: Corallus batesii  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium
+- Subspecies: N/A  
+    Visual evidence: The bright green body is crossed by white, jagged, zigzag transverse markings, with a yellow-orange lip and chin, a broad head distinct from the neck, and a snout and body build typical of an arboreal boa coiled in a tree. This combination fits the Amazon Basin Emerald Tree Boa (Corallus batesii, formerly part of the C. caninus complex), but Corallus caninus is very similar and is separated mainly by locality and by fine scale characters, such as the arrangement of head scales and the number of dorsal scale rows, which are not clearly visible here, so the species assignment remains uncertain.",Corallus batesii,Corallus batesii,0,High,Medium,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Sonnet 5.5,D,image_only,img_006.jpg,6,Elapids,Bungarus flaviceps baluensis,Bungarus flaviceps,Bungarus flaviceps baluensis,3,Oxyrhopus,Undetermined because species is unidentified,"Identification: Oxyrhopus  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Low-Medium
+- Species: N/A
+- Subspecies: N/A  
+    Visual evidence: The slender, smooth-scaled body is banded in red, black and white, with a yellow head and a yellow throat extending onto the neck, and a ventral surface that is mostly white with dark scale edges, which suggests a Neotropical false coral snake. The yellow head and nuchal region fit Oxyrhopus (for example the Oxyrhopus formosus or O. melanogenys group), but similar tricolour pattern mimics in Erythrolamprus, Atractus, Pseudoboa and Siphlophis cannot be excluded, since scale counts, dentition and locality are not available, and the dorsal pattern is only partly visible.",Oxyrhopus,Oxyrhopus,0,Low-Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Sonnet 5.5,D,image_only,img_007.jpg,7,Elapids,Hemachatus haemachatus,Hemachatus haemachatus,,2,Naja (Uraeus subgenus; likely Naja annulifera or a close relative),Undetermined because species is unidentified,"Identification: Naja (Uraeus subgenus; likely Naja annulifera or a close relative)  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Medium-High
+- Species: N/A
+- Subspecies: N/A  
+    Visual evidence: The snake is rearing with a broad, spread hood and has a dark, glossy head, a darker ventral surface with pale scale margins, and a mottled, tan and dark brown dorsal pattern on the rear body. This is consistent with an African cobra, but a spitting or non-spitting form cannot be distinguished here, and Hemachatus haemachatus (the Rinkhals), which also has a broad hood and a pale-edged, mottled body, cannot be excluded, since keeled dorsal scales and the single large scale count that separate it from Naja are not visible.",Naja,Naja,0,Medium-High,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Sonnet 5.5,D,image_only,img_008.jpg,8,Colubrids,Nerodia fasciata confluens,Nerodia fasciata,Nerodia fasciata confluens,3,"Nerodia fasciata (Banded Water Snake), possibly N. fasciata confluens or N. fasciata fasciata",Recognized but not identifiable,"Identification: Nerodia fasciata (Banded Water Snake), possibly N. fasciata confluens or N. fasciata fasciata  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A  
+    Visual evidence: The stout, heavily keeled body is dark with broad, irregular orange to reddish-brown crossbands, and the orange-tinged head shows a dark stripe running through the eye. This matches the Banded Water Snake complex of the southeastern United States, but Nerodia sipedon, N. taxispilota and N. floridana overlap in appearance and range, and the subspecies depends largely on locality and the details of the banding and head markings, which cannot be resolved here.",Nerodia fasciata,Nerodia fasciata,0,High,Medium-High,N/A,1,1,1,0,0,recognized_not_identifiable,recognized_not_identifiable,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Sonnet 5.5,D,image_only,img_009.jpg,9,Boas,Sanzinia madagascariensis,Sanzinia madagascariensis,,2,Corallus (probably Corallus hortulana or a close relative),Undetermined because species is unidentified,"Identification: Corallus (probably Corallus hortulana or a close relative)  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Medium
+- Species: N/A
+- Subspecies: N/A  
+    Visual evidence: The snake has a long, tapering head distinct from the neck, a large eye with a vertical pupil, small granular head scales, and a greenish-olive to yellowish body with dark, pale-centred blotches and a pale underside, with labial pits along the lip margins. This fits an Amazonian arboreal boa such as Corallus hortulana, which is highly variable in colour. Corallus ruschenbergerii, Corallus cookii and some Epicrates or Boa constrictor individuals with similar blotching cannot be excluded without locality or a clearer view of head scalation, and the labial pits are not unambiguous in this image.",Corallus,Corallus,0,Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Sonnet 5.5,D,image_only,img_010.jpg,10,Colubrids,Boiga melanota,Boiga melanota,,2,Boiga dendrophila,Recognized but not identifiable,"Identification: Boiga dendrophila  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A  
+    Visual evidence: The glossy black body carries narrow, widely spaced yellow crossbars, and the head is black with a bright yellow upper lip bearing black vertical sutures between the labial scales, together with a yellow throat. This combination is characteristic of the Mangrove Snake (Boiga dendrophila). Several subspecies are recognized (such as B. d. dendrophila, B. d. melanota, B. d. gemmicincta and B. d. latifasciata), and they differ chiefly in the width and number of the yellow bands and in geographic origin, none of which can be resolved reliably from this partial view.",Boiga dendrophila,Boiga melanota,1,High,High,N/A,1,1,1,0,0,recognized_not_identifiable,none_recognized,0,correct species; no validated subspecies,0,0,2.0,2.0,Former broad taxonomy: Boiga dendrophila / B. d. melanota accepted for B. melanota at species level; no extra subspecies point
+Claude Sonnet 5.5,D,image_only,img_011.jpg,11,Elapids,Pseudechis porphyriacus,Pseudechis porphyriacus,,2,Pseudechis porphyriacus,No recognized subspecies,"Identification: Pseudechis porphyriacus  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A  
+    Visual evidence: The snake has a glossy, uniformly black dorsum with smooth scales and a bright red to orange-red colouration along the lower flanks and the edges of the ventral scales, which is the diagnostic combination of the Red-bellied Black Snake. A shed skin lies in the foreground, and the black dorsal colour with red flank scales separates it from other Australian elapids such as Pseudechis guttatus, P. colletti and Austrelaps, although the venter itself is not fully visible.",Pseudechis porphyriacus,Pseudechis porphyriacus,0,High,High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Sonnet 5.5,D,image_only,img_012.jpg,12,Colubrids,Ptyas nigromarginata,Ptyas nigromarginata,,2,Philodryas olfersii,Recognized but not identifiable,"Identification: Philodryas olfersii  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A  
+    Visual evidence: The slender body is bright green above, with a yellow to orange throat and lower labials and a brown dorsal head, while the posterior body and tail show a dark, black-and-white speckled pattern with pale scale margins, apparently exposed where the snake has been caught in its own coils. This combination is characteristic of the Green Racer (Philodryas olfersii), and the large eye and elongate head suit a diurnal, arboreal colubrid. Philodryas aestiva and Philodryas viridissima also have green dorsal colouration, but they typically lack the yellow throat and the dark posterior pattern seen here. Subspecies are recognized (P. o. olfersii and P. o. latirostris), and these differ mainly in geographic origin and subtle scalation, which cannot be resolved from this photograph.",Philodryas olfersii,Philodryas olfersii,0,High,Medium-High,N/A,0,1,0,0,0,recognized_not_identifiable,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Sonnet 5.5,D,image_only,img_013.jpg,13,Elapids,Naja samarensis,Naja samarensis,,2,Naja subfulva,No recognized subspecies,"Identification: Naja subfulva  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium
+- Subspecies: N/A  
+    Visual evidence: The snake is rearing with a spread hood, and its yellow to golden-brown body is marked by regular dark scale-edge spotting, with a dark grey ventral hood region crossed by pale bands and a yellow throat. This pattern fits the Brown Forest Cobra (Naja subfulva, formerly treated within the Naja melanoleuca complex) of sub-Saharan Africa, but other members of that complex, such as Naja melanoleuca and Naja guineensis, are highly variable in colour and cannot be excluded without locality or scale counts, and some authorities treat Naja subfulva as a synonym of a broader taxon.",Naja subfulva,Naja subfulva,0,High,Medium,N/A,1,1,0,0,0,none_recognized,undetermined,0,correct genus; incorrect species,0,0,0.5,1.0,
+Claude Sonnet 5.5,D,image_only,img_014.jpg,14,Elapids,Calliophis bivirgatus flaviceps,Calliophis bivirgatus,Calliophis bivirgatus flaviceps,3,Calliophis bivirgatus,Recognized but not identifiable,"Identification: Calliophis bivirgatus  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A  
+    Visual evidence: The slender, glossy, dark blue body carries pale blue lateral stripes, with a bright red to orange-red head and tail and red colouration on the underside, which is the diagnostic combination of the Blue Malaysian Coral Snake (Calliophis bivirgatus). Two subspecies are generally recognized (C. b. bivirgatus and C. b. flaviceps, the latter with a red-orange head and a more uniformly coloured body in some treatments), but they are separated chiefly by geographic origin and fine details of head colour and ventral pattern, which cannot be resolved reliably from this photograph.",Calliophis bivirgatus,Calliophis bivirgatus,0,High,High,N/A,1,1,1,0,0,recognized_not_identifiable,recognized_not_identifiable,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Sonnet 5.5,D,image_only,img_015.jpg,15,Vipers,Azemiops feae,Azemiops feae,,2,Protobothrops mangshanensis,No recognized subspecies,"Identification: Protobothrops mangshanensis  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: Low-Medium
+- Species: Low
+- Subspecies: N/A  
+    Visual evidence: The glossy black body is crossed by narrow, widely spaced orange bands, and the pale cream to yellowish head carries olive-green blotches, which is the combination I associate with the Mangshan Pit Viper. However, the head is only moderately triangular, the scales appear smooth and not clearly keeled, and the banded dark pattern is atypical for that species, so this may instead be a different banded Asian snake. Candidates include Sinomicrurus or a juvenile Bungarus, as well as an Oligodon or other colubrid, and the identification should be treated as tentative.",Protobothrops mangshanensis,Protobothrops mangshanensis,0,Low-Medium,Low,N/A,0,1,0,0,0,none_recognized,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Sonnet 5.5,D,image_only,img_016.jpg,16,Colubrids,Zamenis situla,Zamenis situla,,2,Zamenis situla,No recognized subspecies,"Identification: Zamenis situla  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A  
+    Visual evidence: The pale grey to silvery ground colour carries a series of rounded to saddle-shaped reddish-brown dorsal blotches edged in black, with smaller dark lateral spots and a slender head bearing dark postocular stripes, which together are characteristic of the Leopard Snake (Zamenis situla). Other Zamenis, such as Z. hohenackeri or Z. longissimus, differ in pattern and body form, and I see no feature in this image that would suggest them.",Zamenis situla,Zamenis situla,0,High,High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Sonnet 5.5,D,image_only,img_017.jpg,17,Elapids,Acanthophis rugosus,Acanthophis rugosus,,2,Acanthophis,Undetermined because species is unidentified,"Identification: Acanthophis  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: High
+- Species: N/A
+- Subspecies: N/A  
+    Visual evidence: The snake is short, thick-bodied and tapering abruptly to a thin tail, with a broad triangular head distinct from the neck, a keeled and roughened scalation, and a tan to orange ground colour crossed by darker, irregular bands, all of which are typical of a death adder. The red-earth setting and the banded orange colouration are consistent with a desert or arid-zone form such as Acanthophis pyrrhus or Acanthophis wellsi, but these are separated from A. antarcticus and A. hawkei by fine scale and locality characters that cannot be assessed here, so I have stopped at genus.",Acanthophis,Acanthophis,0,High,N/A,N/A,1,0,0,0,0,undetermined,undetermined,1,genus only,0,0,1.0,1.0,
+Claude Sonnet 5.5,D,image_only,img_018.jpg,18,Colubrids,Thelotornis capensis,Thelotornis capensis,,2,Thelotornis,Undetermined because species is unidentified,"Identification: Thelotornis  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Medium-High
+- Species: N/A
+- Subspecies: N/A  
+    Visual evidence: The snake is very slender with an elongate, pointed head, a grey-brown cryptic body with fine pale and dark mottling, and a throat that has been inflated to display a pale, black-blotched pattern, which is the characteristic defensive display of a vine or twig snake. A keyhole-shaped pupil is not clearly visible, and the setting looks like southeastern Africa, which would suggest Thelotornis capensis, but I cannot reliably separate T. capensis from T. kirtlandii or the other described Thelotornis species from this photograph, so I have stopped at genus. Other slender African colubrids such as Dispholidus or Psammophis cannot be fully excluded.",Thelotornis,Thelotornis,0,Medium-High,N/A,N/A,1,0,0,0,0,undetermined,undetermined,1,genus only,0,0,1.0,1.0,
+Claude Sonnet 5.5,D,image_only,img_019.jpg,19,Pythons,Malayopython timoriensis,Malayopython timoriensis,,2,Simalia amethistina,No recognized subspecies,"Identification: Simalia amethistina  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Low-Medium
+- Subspecies: N/A  
+    Visual evidence: The large, heavy-bodied python has a long, narrow head with a yellowish snout and lips, and the forward body shows a yellow-tan and dark brown reticulate pattern that fades to a plain brown posterior, a form of colour change typical of large Simalia. The pale yellow head and the pattern gradient fit the Amethystine Python complex, but Simalia kinghorni, S. nauta, S. tracyae and S. boeleni cannot be separated from this photograph without locality or scale counts, and the dry limestone setting is not diagnostic.",Simalia amethistina,Simalia amethistina,0,High,Low-Medium,N/A,0,1,0,0,0,none_recognized,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Sonnet 5.5,D,image_only,img_020.jpg,20,Colubrids,Thamnophis sirtalis tetrataenia,Thamnophis sirtalis,Thamnophis sirtalis tetrataenia,3,Thamnophis sirtalis tetrataenia,Identified: Thamnophis sirtalis tetrataenia,"Identification: Thamnophis sirtalis tetrataenia  
+Subspecies status: Identified: Thamnophis sirtalis tetrataenia  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: Medium-High  
+    Visual evidence: The head is a solid brick red, and the body carries a pale blue-green dorsolateral stripe bordered by black, with a broad red to orange band along the flank and a turquoise-blue ventral and lower flank colour, which is the distinctive combination of the San Francisco Garter Snake. Other western populations of Thamnophis sirtalis (such as T. s. infernalis or T. s. parietalis) can show red and blue but typically have a less uniformly red head and a different arrangement of the flank colour, so the subspecies assignment rests largely on the pattern, with locality unavailable to confirm it.",Thamnophis sirtalis tetrataenia,Thamnophis sirtalis tetrataenia,0,High,High,Medium-High,1,1,1,1,1,identified,identified,1,correct subspecies,0,0,3.0,3.0,
+Claude Sonnet 5.5,D,image_only,img_021.jpg,21,Pythons,Aspidites ramsayi,Aspidites ramsayi,,2,Aspidites ramsayi,No recognized subspecies,"Identification: Aspidites ramsayi  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A  
+    Visual evidence: The stout, smooth-scaled body shows soft, irregular brown to olive crossbands on a paler ground, with a narrow, wedge-shaped, shovel-like head that is barely distinct from the neck and an olive-yellow head lacking labial pits, all typical of Aspidites. The banded body, the olive head without a strongly contrasting black head and neck, and the red-earth arid setting favour the Woma (Aspidites ramsayi) over the Black-headed Python (Aspidites melanocephalus), which has a glossy black head and neck, though the head colour here is not wholly conclusive.",Aspidites ramsayi,Aspidites ramsayi,0,High,Medium-High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Sonnet 5.5,D,image_only,img_022.jpg,22,Boas,Eryx jayakari,Eryx jayakari,,2,Eryx,Undetermined because species is unidentified,"Identification: Eryx  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Medium-High
+- Species: N/A
+- Subspecies: N/A  
+    Visual evidence: The snake is a small, stout-bodied sand-dwelling form with a short blunt tail, a small head barely distinct from the neck, small smooth scales and a dorsal pattern of dark brown and orange blotches on a pale ground colour, set on fine pale sand. This fits a sand boa of the genus Eryx, but similar African and Asian sand boas could look alike. Gongylophis, Eryx jaculus, Eryx miliaris and Eryx tataricus cannot be excluded, and the pattern and the sandy habitat are not sufficient to separate them, so I have stopped at genus.",Eryx,Eryx,0,Medium-High,N/A,N/A,1,0,0,0,0,undetermined,undetermined,1,genus only,0,0,1.0,1.0,
+Claude Sonnet 5.5,D,image_only,img_023.jpg,23,Boas,Candoia paulsoni paulsoni,Candoia paulsoni,Candoia paulsoni paulsoni,3,"Morelia spilota (Carpet Python), probably the northern or rainforest form",Recognized but not identifiable,"Identification: Morelia spilota (Carpet Python), probably the northern or rainforest form  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: Medium-High
+- Species: Medium
+- Subspecies: N/A  
+    Visual evidence: The snake is climbing a tree trunk and shows a cream to pale grey ground colour with bold, dark-edged brown blotches and jagged crossbands that are typical of a juvenile or subadult Carpet Python. The head is not visible, so labial pits and head scalation cannot be assessed, and Simalia, Leiopython and Corallus all include blotched arboreal forms that cannot be fully excluded. Within Morelia spilota, the pattern suggests the Coastal Carpet Python (M. s. mcdowelli) or a rainforest variant, but subspecies assignment depends largely on locality and cannot be resolved here.",Morelia spilota,Morelia spilota,0,Medium-High,Medium,N/A,0,1,0,0,0,recognized_not_identifiable,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Sonnet 5.5,D,image_only,img_024.jpg,24,Pythons,Leiopython albertisii,Leiopython albertisii,,2,Leiopython albertisii,No recognized subspecies,"Identification: Leiopython albertisii  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium
+- Subspecies: N/A  
+    Visual evidence: The glossy, iridescent, uniformly brown to olive-gold body is unpatterned, and the head is black with white to cream labial scales marked by dark vertical sutures. This combination is characteristic of the White-lipped Python complex. Leiopython has been split into several species (including L. hoserae, L. fredparkeri, L. huonensis, L. bennettorum and L. meridionalis), and these cannot be separated from this photograph without locality or detailed scale data, so the species assignment rests on the traditional name and remains uncertain.",Leiopython albertisii,Leiopython albertisii,0,High,Medium,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Sonnet 5.5,D,image_only,img_025.jpg,25,Colubrids,Thamnophis sirtalis infernalis,Thamnophis sirtalis,Thamnophis sirtalis infernalis,3,Thamnophis sirtalis infernalis,Identified: Thamnophis sirtalis infernalis,"Identification: Thamnophis sirtalis infernalis  
+Subspecies status: Identified: Thamnophis sirtalis infernalis  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: Medium  
+    Visual evidence: The body has a pale sage-green dorsal stripe flanked by black, with alternating red to orange blotches along the sides separated by black bars, and a red to russet head, which is the pattern typical of the California Red-sided Garter Snake. Thamnophis sirtalis tetrataenia, T. s. parietalis and T. s. fitchi can show similar red and black markings, and the subspecies assignment rests on the barred red flank pattern and the less uniformly red head than in tetrataenia, since locality is not available to confirm it.",Thamnophis sirtalis infernalis,Thamnophis sirtalis infernalis,0,High,High,Medium,1,1,1,1,1,identified,identified,1,correct subspecies,0,0,3.0,3.0,
+Claude Sonnet 5.5,D,image_only,img_026.jpg,26,Vipers,Bitis nasicornis,Bitis nasicornis,,2,Bitis nasicornis,No recognized subspecies,"Identification: Bitis nasicornis  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A  
+    Visual evidence: The stout body is heavily keeled and rough-scaled, with a bold geometric pattern of pale blue-green and yellow-edged markings over olive, red and dark brown, and the snout carries a cluster of erect, horn-like scales. This combination is diagnostic of the Rhinoceros Viper (Bitis nasicornis), and the pale-edged dark triangle on the crown and the lateral facial streaks agree with that identification. Bitis gabonica and B. rhinoceros have similar patterns but differ in snout structure, and the paired, stacked nasal horns visible here favour B. nasicornis.",Bitis nasicornis,Bitis nasicornis,0,High,High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Sonnet 5.5,D,image_only,img_027.jpg,27,Vipers,Tropidolaemus wagleri,Tropidolaemus wagleri,,2,Tropidolaemus wagleri,No recognized subspecies,"Identification: Tropidolaemus wagleri  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A  
+    Visual evidence: The stout, arboreal body is banded in black and yellow-green, with a triangular head bearing yellow-green flecks on a black crown, a pale yellow upper lip, and a pale ventral surface with dark-edged scales, which is the pattern of the Wagler's Pit Viper. Other members of the genus, such as Tropidolaemus subannulatus and T. philippensis, have been split from T. wagleri and can look similar, so the species assignment rests on the strongly contrasting black and yellow banding and the Sundaland form I associate with the name, but locality is needed to confirm it.",Tropidolaemus wagleri,Tropidolaemus wagleri,0,High,Medium-High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Sonnet 5.5,D,image_only,img_028.jpg,28,Boas,Eunectes notaeus,Eunectes notaeus,,2,Eunectes notaeus,No recognized subspecies,"Identification: Eunectes notaeus  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium
+- Subspecies: N/A  
+    Visual evidence: The snake held in the jaguar's mouth has a yellow ground colour crossed by a regular series of large, dark, rounded blotches, with a bold black-and-yellow pattern on the visible coils and the tail, which fits an anaconda. The yellow ground colour and the pattern favour the Yellow Anaconda (Eunectes notaeus) over the Green Anaconda (Eunectes murinus), which is typically olive-green with rounder, more widely spaced black spots, though the lighting and the partial view of the body leave some doubt, and Eunectes beniensis and E. deschauenseei cannot be fully excluded without locality.",Eunectes notaeus,Eunectes notaeus,0,High,Medium,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Sonnet 5.5,D,image_only,img_029.jpg,29,Vipers,Protobothrops flavoviridis,Protobothrops flavoviridis,,2,Chilabothrus striatus,Recognized but not identifiable,"Identification: Chilabothrus striatus  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: Medium-High
+- Species: Medium
+- Subspecies: N/A  
+    Visual evidence: The heavy-bodied snake has a pale grey to cream ground colour with a black, reticulate dorsal pattern containing pale oval blotches, and the head bears dark longitudinal stripes through the eye and across the crown, with a pale lip region. This combination fits the Hispaniolan Boa (Chilabothrus striatus, formerly Epicrates striatus). Other West Indian Chilabothrus, such as C. gracilis, C. fordii and C. chrysogaster, cannot be fully excluded, and the subspecies of C. striatus (such as C. s. striatus and C. s. exagistus) depend largely on locality, which cannot be resolved here.",Chilabothrus striatus,Chilabothrus striatus,0,Medium-High,Medium,N/A,0,1,0,0,0,recognized_not_identifiable,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Sonnet 5.5,D,image_only,img_030.jpg,30,Elapids,Aspidelaps lubricus lubricus,Aspidelaps lubricus,Aspidelaps lubricus lubricus,3,Aspidelaps lubricus,Recognized but not identifiable,"Identification: Aspidelaps lubricus  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A  
+    Visual evidence: The snake is rearing with a narrow, partly spread hood and a short, blunt head with a prominent, rounded snout, carrying an orange head and orange to salmon body crossed by dark bands, with a pale ventral surface and a dark band across the throat when raised. This combination is characteristic of the Coral Shield Cobra (Aspidelaps lubricus), and the arid sandy setting suits its southwestern African range. Aspidelaps scutatus, the Speckled Shield Cobra, is separated by a more uniformly coloured, less banded body, and the subspecies of A. lubricus (A. l. lubricus and A. l. infuscatus) depend largely on locality and fine colour differences that cannot be resolved here.",Aspidelaps lubricus,Aspidelaps lubricus,0,High,Medium-High,N/A,1,1,1,0,0,recognized_not_identifiable,recognized_not_identifiable,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Opus 5.5,E,image_only,img_001.png,1,Pythons,Simalia amethistina,Simalia amethistina,,2,_Simalia kinghorni_,No recognized subspecies,"Identification: _Simalia kinghorni_  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: Medium-High
+- Species: Low-Medium
+- Subspecies: N/A
+
+Visual evidence: The slender python body, vertical pupil, labial pits, iridescent scales and, most usefully, the large, symmetrical paired shields on the crown of the head point to the amethystine–scrub python group (_Simalia_) rather than _Morelia_, whose crown is covered in small fragmented scales. The tan ground colour with irregular dark crossbands and zigzag markings matches the Australian scrub python well. However, species within the _S. amethistina_ complex are separated largely by geography and fine scale counts that the photograph does not establish, so the species attribution is tentative.",Simalia kinghorni,Simalia kinghorni,0,Medium-High,Low-Medium,N/A,1,1,0,0,0,none_recognized,undetermined,0,correct genus; incorrect species,0,0,0.5,1.0,
+Claude Opus 5.5,E,image_only,img_002.jpg,2,Pythons,Morelia spilota spilota,Morelia spilota,Morelia spilota spilota,3,_Morelia spilota spilota_,Identified: _Morelia spilota spilota_,"Identification: _Morelia spilota spilota_  
+Subspecies status: Identified: _Morelia spilota spilota_  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: Medium-High
+
+Visual evidence: The heavy-bodied python with a broad, distinct head covered in small scales, a black ground colour in which most scales carry a pale yellow spot, and pale cream rosette-like clusters arranged in rows along the body is the characteristic diamond python pattern. Diamond–coastal carpet python intergrades occur where the ranges meet in north-eastern New South Wales and can look similar, which is the main reason the subspecies rating is not higher; nothing here suggests the banded or blotched pattern typical of _M. s. mcdowelli_.",Morelia spilota spilota,Morelia spilota spilota,0,High,High,Medium-High,1,1,1,1,1,identified,identified,1,correct subspecies,0,0,3.0,3.0,
+Claude Opus 5.5,E,image_only,img_003.jpg,3,Vipers,Agkistrodon taylori,Agkistrodon taylori,,2,_Agkistrodon taylori_,No recognized subspecies,"Identification: _Agkistrodon taylori_  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: Medium-High
+- Species: Medium
+- Subspecies: N/A
+
+Visual evidence: The stout, rough-scaled body, the partly visible head with bold pale stripes edging the face, and the yellowish tail tip, a retained juvenile caudal lure, are consistent with a cantil (_Agkistrodon_). The very dark, near-black ground colour broken by strongly contrasting orange-and-cream crossbands with scalloped pale edges favours Taylor's cantil over _A. bilineatus_ or _A. russeolus_, which are usually browner with narrower, less vivid pale banding. The head is only partly visible and banding varies with age and individual, so the species attribution is moderate rather than firm.",Agkistrodon taylori,Agkistrodon taylori,0,Medium-High,Medium,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Opus 5.5,E,image_only,img_004.jpg,4,Vipers,Vipera kaznakovi,Vipera kaznakovi,,2,_Vipera berus_,Recognized but not identifiable,"Identification: _Vipera berus_  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The short, thick-bodied viper with keeled scales, a red iris, pale-edged labial scales and a broad, continuous black dorsal zigzag with a row of dark lateral spots on an orange-brown ground is the classic adder pattern. Some _Vipera seoanei_ and _V. aspis_ individuals can carry a zigzag-like pattern, and the head shields that would help separate them are not clearly resolved, so the species is not rated higher. Subspecies such as _V. b. berus_ and _V. b. bosniensis_ are recognized by many authors but are not reliably separable from colour pattern alone without locality.",Vipera berus,Vipera berus,0,High,Medium-High,N/A,1,1,0,0,0,recognized_not_identifiable,undetermined,0,correct genus; incorrect species,0,0,0.5,1.0,
+Claude Opus 5.5,E,image_only,img_005.jpg,5,Boas,Corallus batesii,Corallus batesii,,2,_Corallus caninus_,No recognized subspecies,"Identification: _Corallus caninus_  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium
+- Subspecies: N/A
+
+Visual evidence: The emerald-green body coiled over a branch, the deep labial pits and the white vertebral line with lateral crossbars are diagnostic of the emerald tree boa group within _Corallus_. The yellow labial scales and the relatively narrow, irregular white markings favour _C. caninus_ (Guiana Shield) over _C. batesii_ (Amazon Basin), which tends to have greener or whitish lips and broader white bands; however, the two overlap in pattern, and the head-scale differences that separate them are not clearly resolved here.",Corallus caninus,Corallus caninus,0,High,Medium,N/A,1,1,0,0,0,none_recognized,undetermined,0,correct genus; incorrect species,0,0,0.5,1.0,
+Claude Opus 5.5,E,image_only,img_006.jpg,6,Elapids,Bungarus flaviceps baluensis,Bungarus flaviceps,Bungarus flaviceps baluensis,3,_Oxyrhopus_,Undetermined because species is unidentified,"Identification: _Oxyrhopus_  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Low-Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The smooth-scaled, moderately slender dipsadine with a uniformly yellow head, a black nuchal collar, a forebody of black scales on pale skin and a posterior that retains red-and-black coral-mimic banding suggests an individual undergoing ontogenetic darkening, as occurs in several Neotropical pseudoboine genera. A yellowish head combined with residual red banding fits some _Oxyrhopus_ (for example _O. formosus_), but _Clelia_, _Pseudoboa_ and _Siphlophis_ also show comparable ontogenetic colour change, and the pupil shape and head scalation that would help separate them are not clearly resolved, so the genus itself is tentative.",Oxyrhopus,Oxyrhopus,0,Low-Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Opus 5.5,E,image_only,img_007.jpg,7,Elapids,Hemachatus haemachatus,Hemachatus haemachatus,,2,_Hemachatus haemachatus_,No recognized subspecies,"Identification: _Hemachatus haemachatus_  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: Medium-High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The broad hood and raised forebody identify an elapid of the cobra group, and the dull, rough-looking dorsal scales on the coiled body, apparently keeled, point to the rinkhals rather than _Naja_, whose dorsal scales are smooth and glossy. The dark ventral surface with pale-edged ventrals and the mottled brown, black and yellowish dorsal pattern fit a non-banded rinkhals. The throat lacks clearly defined pale crossbars, and scale keeling cannot be confirmed at this resolution, so a dark-bellied _Naja_ such as _N. annulifera_ cannot be wholly excluded.",Hemachatus haemachatus,Hemachatus haemachatus,0,Medium-High,Medium-High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Opus 5.5,E,image_only,img_008.jpg,8,Colubrids,Nerodia fasciata confluens,Nerodia fasciata,Nerodia fasciata confluens,3,_Nerodia fasciata_,Recognized but not identifiable,"Identification: _Nerodia fasciata_  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The heavy-bodied, keeled-scaled natricine with broad dark crossbands separated by narrower orange-red interspaces, and a dark stripe running from the eye to the angle of the jaw, is typical of the southern water snake; the postocular stripe helps separate it from _N. sipedon_ and _N. erythrogaster_. The red-orange colouring is consistent with either _N. f. fasciata_ or _N. f. pictiventris_, but the belly pattern, the main distinguishing feature between them, is not visible.",Nerodia fasciata,Nerodia fasciata,0,High,Medium-High,N/A,1,1,1,0,0,recognized_not_identifiable,recognized_not_identifiable,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Opus 5.5,E,image_only,img_009.jpg,9,Boas,Sanzinia madagascariensis,Sanzinia madagascariensis,,2,_Sanzinia madagascariensis_,No recognized subspecies,"Identification: _Sanzinia madagascariensis_  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The boid head with a large dark eye, the dark postocular stripe and the olive-green ground colour with dark, pale-centred lateral blotches fit the Madagascar tree boa. The greenish colouration matches the eastern rainforest form; the browner western form is now generally treated as a separate species, _S. volontany_, which is why no subspecies is assigned here. Under the older arrangement in which _volontany_ was a subspecies, this specimen would correspond to the nominate form.",Sanzinia madagascariensis,Sanzinia madagascariensis,0,High,Medium-High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Opus 5.5,E,image_only,img_010.jpg,10,Colubrids,Boiga melanota,Boiga melanota,,2,_Boiga dendrophila_,Recognized but not identifiable,"Identification: _Boiga dendrophila_  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The glossy black, slender-necked colubrid with a broad head, yellow labials and throat with black sutures, and narrow yellow crossbands down the body is the mangrove snake. The bands are thin and partly interrupted rather than broad and complete, which is consistent with mainland Southeast Asian forms such as _B. d. melanota_, but band width and count vary within and between subspecies, and without locality the subspecies cannot be assigned with confidence.",Boiga dendrophila,Boiga melanota,1,High,High,N/A,1,1,1,0,0,recognized_not_identifiable,none_recognized,0,correct species; no validated subspecies,0,0,2.0,2.0,Former broad taxonomy: Boiga dendrophila / B. d. melanota accepted for B. melanota at species level; no extra subspecies point
+Claude Opus 5.5,E,image_only,img_011.jpg,11,Elapids,Pseudechis porphyriacus,Pseudechis porphyriacus,,2,_Pseudechis porphyriacus_,No recognized subspecies,"Identification: _Pseudechis porphyriacus_  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The glossy black dorsum with red lower flanks on smooth scales, and the short, slightly flattened head barely distinct from the neck, are characteristic of the red-bellied black snake. No other Australian elapid combines a uniformly black back with red lateral colouration in this way; the shed skin beside it adds nothing diagnostic.",Pseudechis porphyriacus,Pseudechis porphyriacus,0,High,High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Opus 5.5,E,image_only,img_012.jpg,12,Colubrids,Ptyas nigromarginata,Ptyas nigromarginata,,2,_Ptyas nigromarginata_,No recognized subspecies,"Identification: _Ptyas nigromarginata_  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The large, slender, smooth-scaled colubrid with a large eye and a brownish head shading to yellow on the lips and throat, a bright green forebody with black-edged scales, and a posterior that becomes black with pale longitudinal stripes, is the distinctive pattern of the green rat snake. The progressive shift from green anteriorly to black-and-white stripes posteriorly separates it from other green Asian colubrids such as _Gonyosoma_ or _Ptyas major_; the close relative _P. doriae_ is browner and lacks the green forebody.",Ptyas nigromarginata,Ptyas nigromarginata,0,High,Medium-High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Opus 5.5,E,image_only,img_013.jpg,13,Elapids,Naja samarensis,Naja samarensis,,2,_Naja subfulva_,No recognized subspecies,"Identification: _Naja subfulva_  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: Medium-High
+- Species: Low-Medium
+- Subspecies: N/A
+
+Visual evidence: The raised forebody with a lateral hood, smooth glossy scales, a rounded head with a fairly large dark eye and a dark band across the throat and anterior ventrals indicate a cobra of the genus _Naja_. The yellow-brown ground colour with a dark centre or margin on most dorsal scales, producing a speckled effect, together with the dark throat band, fits the lighter savanna-edge form of the brown forest cobra, formerly treated within _N. melanoleuca_. Cape cobras (_N. nivea_) and some other African cobras can also be yellow with dark throat bands, and the head and hood markings that would help separate them are not well resolved, so the species attribution is tentative.",Naja subfulva,Naja subfulva,0,Medium-High,Low-Medium,N/A,1,1,0,0,0,none_recognized,undetermined,0,correct genus; incorrect species,0,0,0.5,1.0,
+Claude Opus 5.5,E,image_only,img_014.jpg,14,Elapids,Calliophis bivirgatus flaviceps,Calliophis bivirgatus,Calliophis bivirgatus flaviceps,3,_Calliophis bivirgatus flaviceps_,Identified: _Calliophis bivirgatus flaviceps_,"Identification: _Calliophis bivirgatus flaviceps_  
+Subspecies status: Identified: _Calliophis bivirgatus flaviceps_  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: Low-Medium
+
+Visual evidence: The slender, smooth-scaled elapid with a bright red head and tail, a dark blue-black dorsum and a broad pale blue ventrolateral stripe is unmistakably the blue coral snake. The single, well-defined pale blue lateral stripe on each side, with no additional dorsal or dorsolateral stripes, fits the Malay Peninsula and Sumatra form better than _C. b. tetrataenia_ of Borneo, which typically shows extra pale stripes; however, the subspecies are separated partly by locality and by details of the stripe pattern that vary, so the trinomial is tentative.",Calliophis bivirgatus flaviceps,Calliophis bivirgatus flaviceps,0,High,High,Low-Medium,1,1,1,1,1,identified,identified,1,correct subspecies,0,0,3.0,3.0,
+Claude Opus 5.5,E,image_only,img_015.jpg,15,Vipers,Azemiops feae,Azemiops feae,,2,_Lycodon_,Undetermined because species is unidentified,"Identification: _Lycodon_  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Low-Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The smooth, glossy-scaled colubrid with a broad, flattened head, a pale iris with a vertical pupil, a dark purplish-black body and narrow, regularly spaced orange crossbands is consistent with an Asian wolf snake; the pattern resembles banded species such as _L. flavozonatus_ or _L. rosozonatus_. However, the largely cream head with symmetrical olive blotches is unusual for those species and could reflect a juvenile or a less familiar taxon, and several Neotropical banded dipsadines (for example _Tropidodipsas_) show convergent colouring, so I cannot support a species and the genus itself is tentative.",Lycodon,Lycodon,0,Low-Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Opus 5.5,E,image_only,img_016.jpg,16,Colubrids,Zamenis situla,Zamenis situla,,2,_Zamenis situla_,No recognized subspecies,"Identification: _Zamenis situla_  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The slender, smooth-scaled colubrid with a pale grey ground colour, a dorsal series of black-edged reddish-brown saddles and smaller dark lateral spots, a red iris and a dark band across the head behind the eyes with a dark postocular stripe is the leopard snake. The saddles are partly paired or offset, a common variation in this species, and no other European colubrid shows this combination.",Zamenis situla,Zamenis situla,0,High,High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Opus 5.5,E,image_only,img_017.jpg,17,Elapids,Acanthophis rugosus,Acanthophis rugosus,,2,_Acanthophis pyrrhus_,No recognized subspecies,"Identification: _Acanthophis pyrrhus_  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Low-Medium
+- Subspecies: N/A
+
+Visual evidence: The short, stout body with an abruptly thin tail ending in a pale caudal lure, the broad triangular head and the alternating crossbanding are diagnostic of a death adder (_Acanthophis_). The orange-red ground colour with yellowish crossbands and apparently rough, keeled dorsal scales on red arid soil favours the desert death adder, but _A. wellsi_ of the Pilbara and some _A. antarcticus_ populations can be similarly red and banded, and the degree of scale keeling, the main distinguishing feature, cannot be confirmed at this resolution.",Acanthophis pyrrhus,Acanthophis pyrrhus,0,High,Low-Medium,N/A,1,1,0,0,0,none_recognized,undetermined,0,correct genus; incorrect species,0,0,0.5,1.0,
+Claude Opus 5.5,E,image_only,img_018.jpg,18,Colubrids,Thelotornis capensis,Thelotornis capensis,,2,_Thelotornis capensis_,Recognized but not identifiable,"Identification: _Thelotornis capensis_  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: High
+- Species: Medium
+- Subspecies: N/A
+
+Visual evidence: The extremely slender, cryptically mottled grey-brown body, the long head with a greenish crown and pale facial markings, and the inflated throat revealing a large dark blotch in defensive display are characteristic of a twig snake (_Thelotornis_). The greenish-topped head with dark speckling and the overall pattern fit _T. capensis_, but _T. mossambicanus_ and _T. kirtlandii_ are similar and the head-colour details that help separate them are only partly resolved; the subspecies of _T. capensis_ (_capensis_ and _oatesi_) differ mainly in head colouring and range and cannot be assigned confidently here.",Thelotornis capensis,Thelotornis capensis,0,High,Medium,N/A,1,1,1,0,0,recognized_not_identifiable,none_recognized,0,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Opus 5.5,E,image_only,img_019.jpg,19,Pythons,Malayopython timoriensis,Malayopython timoriensis,,2,_Morelia spilota_,Recognized but not identifiable,"Identification: _Morelia spilota_  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: Medium
+- Species: Low-Medium
+- Subspecies: N/A
+
+Visual evidence: The heavy-bodied python with a broad, distinct head and a yellowish ground colour overlaid by an irregular dark reticulated and blotched pattern on the forebody is consistent with a carpet python. The posterior body appears dull and bluish-brown with the pattern obscured, which most likely reflects the snake being partly through a shed rather than a genuinely uniform posterior, but this cannot be confirmed. The crown scalation that would separate _Morelia_ from _Simalia_ is not clearly resolved, and the subspecies of _M. spilota_ are distinguished largely by pattern and locality that this image does not establish.",Morelia spilota,Morelia spilota,0,Medium,Low-Medium,N/A,0,1,0,0,0,recognized_not_identifiable,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Opus 5.5,E,image_only,img_020.jpg,20,Colubrids,Thamnophis sirtalis tetrataenia,Thamnophis sirtalis,Thamnophis sirtalis tetrataenia,3,_Thamnophis sirtalis tetrataenia_,Identified: _Thamnophis sirtalis tetrataenia_,"Identification: _Thamnophis sirtalis tetrataenia_  
+Subspecies status: Identified: _Thamnophis sirtalis tetrataenia_  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: Medium-High
+
+Visual evidence: The keeled-scaled garter snake with a red head, a pale greenish-yellow vertebral stripe, broad continuous red dorsolateral stripes bordered by black, and turquoise-blue lateral stripes and venter is the San Francisco garter snake pattern. The red forms an unbroken stripe rather than the series of red bars or blotches separated by black that characterizes _T. s. infernalis_, which is the main distinguishing feature; intergrades occur near the range boundary, so the subspecies is not rated higher.",Thamnophis sirtalis tetrataenia,Thamnophis sirtalis tetrataenia,0,High,High,Medium-High,1,1,1,1,1,identified,identified,1,correct subspecies,0,0,3.0,3.0,
+Claude Opus 5.5,E,image_only,img_021.jpg,21,Pythons,Aspidites ramsayi,Aspidites ramsayi,,2,_Aspidites ramsayi_,No recognized subspecies,"Identification: _Aspidites ramsayi_  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The python with a narrow head barely distinct from the neck, small dark eyes, no visible labial pits and a smooth, glossy body points to _Aspidites_. The plain olive-brown head lacking the glossy black head and neck of _A. melanocephalus_, together with the olive-to-brown ground colour and regular darker crossbands, is the woma pattern; the darker bands toward the tail are typical of the species.",Aspidites ramsayi,Aspidites ramsayi,0,High,High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Opus 5.5,E,image_only,img_022.jpg,22,Boas,Eryx jayakari,Eryx jayakari,,2,_Eryx jayakari_,No recognized subspecies,"Identification: _Eryx jayakari_  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The stout, cylindrical body with a short blunt tail, a small head not distinct from the neck and a pale venter on fine sand indicate a sand boa (_Eryx_). The very smooth, glossy scales, the narrow wedge-shaped snout with small, dorsally placed eyes and the brown pattern with scattered orange spots and blotches fit the Arabian sand boa; _E. jaculus_ and _E. miliaris_ have duller, more keeled posterior scales and laterally placed eyes, although the eye position is only partly resolved here.",Eryx jayakari,Eryx jayakari,0,High,Medium-High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Opus 5.5,E,image_only,img_023.jpg,23,Boas,Candoia paulsoni paulsoni,Candoia paulsoni,Candoia paulsoni paulsoni,3,_Morelia spilota_,Recognized but not identifiable,"Identification: _Morelia spilota_  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: Low-Medium
+- Species: Low-Medium
+- Subspecies: N/A
+
+Visual evidence: The moderately stout, smooth-scaled snake climbing a rainforest trunk, with a pale cream ground colour crossed by dark, wavy-edged bands that enclose brown-speckled areas and a broad head pale with dark markings, is consistent with a rainforest carpet python, such as the jungle carpet form (_M. s. cheynei_). However, the head is small and partly obscured, so the labial pits and head scalation cannot be checked, and Neotropical tree boas (_Corallus hortulana_) or other patterned arboreal snakes cannot be excluded; for this reason neither the genus nor the subspecies is well supported.",Morelia spilota,Morelia spilota,0,Low-Medium,Low-Medium,N/A,0,1,0,0,0,recognized_not_identifiable,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Opus 5.5,E,image_only,img_024.jpg,24,Pythons,Leiopython albertisii,Leiopython albertisii,,2,_Leiopython albertisii_,No recognized subspecies,"Identification: _Leiopython albertisii_  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium
+- Subspecies: N/A
+
+Visual evidence: The glossy, strongly iridescent python with a black head, white labial scales edged in black and a plain, unpatterned body is the white-lipped python (_Leiopython_). The golden-yellow to bronze body colour favours the northern form, _L. albertisii_, over the darker, often grey-black southern populations sometimes treated as _L. hoserae_ or _L. meridionalis_; because those splits are not universally accepted and colour overlaps, the species rating is moderate.",Leiopython albertisii,Leiopython albertisii,0,High,Medium,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Opus 5.5,E,image_only,img_025.jpg,25,Colubrids,Thamnophis sirtalis infernalis,Thamnophis sirtalis,Thamnophis sirtalis infernalis,3,_Thamnophis sirtalis infernalis_,Identified: _Thamnophis sirtalis infernalis_,"Identification: _Thamnophis sirtalis infernalis_  
+Subspecies status: Identified: _Thamnophis sirtalis infernalis_  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: Medium
+
+Visual evidence: The keeled-scaled garter snake with a red head, a pale greenish-yellow vertebral stripe, a black dorsolateral field broken by a series of red bars and a distinct pale bluish-green lateral stripe identifies a red-sided _T. sirtalis_. The red appears as separate bars rather than a continuous stripe, which excludes _T. s. tetrataenia_, and the clearly defined lateral stripe fits the California red-sided garter snake better than _T. s. concinnus_, in which the lateral stripe is usually reduced and the black more extensive; intergradation among these forms limits confidence.",Thamnophis sirtalis infernalis,Thamnophis sirtalis infernalis,0,High,High,Medium,1,1,1,1,1,identified,identified,1,correct subspecies,0,0,3.0,3.0,
+Claude Opus 5.5,E,image_only,img_026.jpg,26,Vipers,Bitis nasicornis,Bitis nasicornis,,2,_Bitis nasicornis_,No recognized subspecies,"Identification: _Bitis nasicornis_  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The heavy-bodied viper with strongly keeled, rough scales, a pair of prominent horn-like scales on the tip of the snout and a dark arrowhead-shaped marking on the crown is the rhinoceros viper. The vivid blue-green, yellow and red geometric dorsal pattern of black-edged rhomboids and triangles fits this species well; the related _B. gabonica_ and _B. rhinoceros_ have much smaller or no nasal horns and differently patterned heads.",Bitis nasicornis,Bitis nasicornis,0,High,High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Opus 5.5,E,image_only,img_027.jpg,27,Vipers,Tropidolaemus wagleri,Tropidolaemus wagleri,,2,_Tropidolaemus wagleri_,No recognized subspecies,"Identification: _Tropidolaemus wagleri_  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The stout-bodied pit viper with a large triangular head, a visible loreal pit region and keeled scales on a branch, patterned in black with yellow crossbands and spots, a black head with yellow speckling and yellow labials, and pale chequered ventrolateral scales, is an adult female Wagler's pit viper. This black-and-yellow banded phenotype is typical of _T. wagleri_ of the Malay Peninsula and Sumatra; adult females of _T. subannulatus_ are usually greener with less contrasting banding, though overlap in colour prevents a High rating.",Tropidolaemus wagleri,Tropidolaemus wagleri,0,High,Medium-High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Opus 5.5,E,image_only,img_028.jpg,28,Boas,Eunectes notaeus,Eunectes notaeus,,2,_Eunectes notaeus_,No recognized subspecies,"Identification: _Eunectes notaeus_  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The heavy-bodied boid, here held in a jaguar's jaws, has a bright yellow ground colour with large, irregular black blotches and saddles that partly merge into a reticulated pattern, which is the yellow anaconda. The green anaconda (_E. murinus_) is olive with discrete round dark spots, while _E. deschauenseei_ has a yellowish ground with more numerous, smaller and more separate spots; the confluent black markings here favour _E. notaeus_, although the head is not visible.",Eunectes notaeus,Eunectes notaeus,0,High,Medium-High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+Claude Opus 5.5,E,image_only,img_029.jpg,29,Vipers,Protobothrops flavoviridis,Protobothrops flavoviridis,,2,_Leioheterodon madagascariensis_,No recognized subspecies,"Identification: _Leioheterodon madagascariensis_  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: Medium
+- Species: Medium
+- Subspecies: N/A
+
+Visual evidence: The large, smooth-scaled snake with a round pupil, no visible labial pits, a pale throat and a head marked with bold dark longitudinal stripes and bars, and a body patterned in black with pale cream spots and chevrons arranged in a chequered, diamond-like pattern, fits the Madagascar giant hognose snake. The colouring here is paler and more cream than the typical yellow, and a carpet python (_Morelia spilota_) with a similar black-and-cream pattern is a plausible alternative if labial pits are simply not visible at this angle, which is why the identification is not rated higher.",Leioheterodon madagascariensis,Leioheterodon madagascariensis,0,Medium,Medium,N/A,0,1,0,0,0,none_recognized,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+Claude Opus 5.5,E,image_only,img_030.jpg,30,Elapids,Aspidelaps lubricus lubricus,Aspidelaps lubricus,Aspidelaps lubricus lubricus,3,_Aspidelaps lubricus_,Recognized but not identifiable,"Identification: _Aspidelaps lubricus_  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The small, stout elapid rearing with a narrow hood, a short head with an enlarged, raised rostral scale, a large dark eye, an orange body with dark crossbands and a broad black band across the throat is the coral shield cobra. The orange ground colour with fairly distinct bands fits the nominate form, but the subspecies (_lubricus_, _infuscatus_, _cowlesi_) are distinguished by band number, extent of dark pigment and locality, and this individual is not unambiguous on those points.",Aspidelaps lubricus,Aspidelaps lubricus,0,High,High,N/A,1,1,1,0,0,recognized_not_identifiable,recognized_not_identifiable,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6 Luna,F,image_only,img_001.png,1,Pythons,Simalia amethistina,Simalia amethistina,,2,Morelia spilota,Recognized but not identifiable,"Identification: Morelia spilota  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: Medium-High
+- Species: Medium
+- Subspecies: N/A
+
+Visual evidence: The snake has a broad, elongated head with large symmetrical crown shields and a striking brown, cream, and black pattern of irregular crossbands and blotches, consistent with a carpet python. The head is visible, but the body pattern alone does not reliably distinguish among the recognized subspecies or closely related forms.",Morelia spilota,Morelia spilota,0,Medium-High,Medium,N/A,0,1,0,0,0,recognized_not_identifiable,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Luna,F,image_only,img_002.jpg,2,Pythons,Morelia spilota spilota,Morelia spilota,Morelia spilota spilota,3,Morelia spilota,Recognized but not identifiable,"Identification: Morelia spilota  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: Medium
+- Species: Low-Medium
+- Subspecies: N/A
+
+Visual evidence: The snake has a slender python-like build, a long tapering tail, and a dark body densely marked with pale yellow or cream spots and irregular bands, a pattern compatible with a carpet python. The photo does not show enough diagnostic detail or location to distinguish this from other similarly patterned pythons confidently.",Morelia spilota,Morelia spilota,0,Medium,Low-Medium,N/A,1,1,1,0,0,recognized_not_identifiable,recognized_not_identifiable,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6 Luna,F,image_only,img_003.jpg,3,Vipers,Agkistrodon taylori,Agkistrodon taylori,,2,Bothrops sp.,Undetermined because species is unidentified,"Identification: Bothrops sp.  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The snake has a stout body with strongly keeled scales and dark, pale-edged blotches with orange-yellow centers, a pattern consistent with a lancehead pit viper. The head and tail tip are not clearly visible, so the photograph does not support a species identification.",Bothrops,Bothrops,0,Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Luna,F,image_only,img_004.jpg,4,Vipers,Vipera kaznakovi,Vipera kaznakovi,,2,Vipera sp.,Undetermined because species is unidentified,"Identification: Vipera sp.  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: This is a stout viper with strongly keeled scales, a broad triangular head, and dark zigzag-like markings edged in orange-yellow. The image lacks clear geographic or finer head-scale details to support a species identification.",Vipera,Vipera,0,Medium,N/A,N/A,1,0,0,0,0,undetermined,undetermined,1,genus only,0,0,1.0,1.0,
+GPT-6 Luna,F,image_only,img_005.jpg,5,Boas,Corallus batesii,Corallus batesii,,2,Morelia viridis,No recognized subspecies,"Identification: Morelia viridis  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The snake is bright green and arboreal, with a prehensile-looking coil around a branch, a broad head, and irregular white dorsal markings. These features are characteristic of the green tree python.",Morelia viridis,Morelia viridis,0,High,High,N/A,0,1,0,0,0,none_recognized,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Luna,F,image_only,img_006.jpg,6,Elapids,Bungarus flaviceps baluensis,Bungarus flaviceps,Bungarus flaviceps baluensis,3,Micrurus sp.,Undetermined because species is unidentified,"Identification: Micrurus sp.  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The snake has a coral-snake-like pattern of red, black, and pale bands, and the visible head is yellow with dark markings. The body is partly obscured and the band arrangement is difficult to assess, so I can’t reliably narrow it to a species.",Micrurus,Micrurus,0,Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Luna,F,image_only,img_007.jpg,7,Elapids,Hemachatus haemachatus,Hemachatus haemachatus,,2,Naja naja,No recognized subspecies,"Identification: Naja naja  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The raised hood, broad dark dorsal surface, and pale ventral scales with dark crossbars are characteristic of a cobra. The hood pattern and visible body markings are compatible with the Indian cobra, though this view does not show all features that would help rule out similar regional species.",Naja naja,Naja naja,0,High,Medium-High,N/A,0,1,0,0,0,none_recognized,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Luna,F,image_only,img_008.jpg,8,Colubrids,Nerodia fasciata confluens,Nerodia fasciata,Nerodia fasciata confluens,3,Helicops sp.,Undetermined because species is unidentified,"Identification: Helicops sp.  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Low-Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The snake has strongly keeled scales, dark bands with orange-red centers, and a rusty orange head. Its body pattern suggests a South American aquatic snake, but the head and underside are not visible clearly enough to support a species identification.",Helicops,Helicops,0,Low-Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Luna,F,image_only,img_009.jpg,9,Boas,Sanzinia madagascariensis,Sanzinia madagascariensis,,2,Candoia sp.,Undetermined because species is unidentified,"Identification: Candoia sp.  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Low-Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The snake has a broad, blunt head with small irregular scales and a stout body marked with olive and dark blotches, consistent with a boa from the Pacific region. The image does not show enough diagnostic detail to distinguish among Candoia species.",Candoia,Candoia,0,Low-Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Luna,F,image_only,img_010.jpg,10,Colubrids,Boiga melanota,Boiga melanota,,2,Bungarus sp.,Undetermined because species is unidentified,"Identification: Bungarus sp.  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The snake has a glossy black body with narrow yellow crossbands and a contrasting yellow underside, a pattern consistent with a krait. The head is visible, but this view does not show enough diagnostic detail to distinguish among Bungarus species.",Bungarus,Bungarus,0,Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Luna,F,image_only,img_011.jpg,11,Elapids,Pseudechis porphyriacus,Pseudechis porphyriacus,,2,Pseudonaja sp.,Undetermined because species is unidentified,"Identification: Pseudonaja sp.  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Low
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The snake has a mostly black head and back with reddish-orange scales along the lower sides, a pattern seen in some Australian brown snakes. The head and most of the body are visible only partially, so I can’t distinguish Pseudonaja from other dark-bodied snakes with red or orange flanks confidently.",Pseudonaja,Pseudonaja,0,Low,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Luna,F,image_only,img_012.jpg,12,Colubrids,Ptyas nigromarginata,Ptyas nigromarginata,,2,Chrysopelea ornata,Recognized but not identifiable,"Identification: Chrysopelea ornata  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: Medium
+- Species: Medium
+- Subspecies: N/A
+
+Visual evidence: The foremost snake is slender and green, with an orange-yellow head and dark-edged scales; the other visible individual has a contrasting black-and-pale pattern. These features suggest flying snakes, but the image does not show enough diagnostic detail to confirm the species or identify the second snake.",Chrysopelea ornata,Chrysopelea ornata,0,Medium,Medium,N/A,0,1,0,0,0,recognized_not_identifiable,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Luna,F,image_only,img_013.jpg,13,Elapids,Naja samarensis,Naja samarensis,,2,Naja sp.,Undetermined because species is unidentified,"Identification: Naja sp.  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The snake is hooding, with an expanded neck, a yellow head, and dark-and-yellow coloration with rows of dark spots along the hood. These features support a cobra, but the hood pattern and other details needed to distinguish species are partly obscured.",Naja,Naja,0,Medium,N/A,N/A,1,0,0,0,0,undetermined,undetermined,1,genus only,0,0,1.0,1.0,
+GPT-6 Luna,F,image_only,img_014.jpg,14,Elapids,Calliophis bivirgatus flaviceps,Calliophis bivirgatus,Calliophis bivirgatus flaviceps,3,Calliophis bivirgatus,No recognized subspecies,"Identification: Calliophis bivirgatus  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: Medium-High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The snake has a vivid red head and tail, a dark blue body with bright blue longitudinal stripes, and a slender build. This distinctive combination is characteristic of the blue coral snake, though the small size of the animal in the photograph limits inspection of finer details.",Calliophis bivirgatus,Calliophis bivirgatus,0,Medium-High,Medium-High,N/A,1,1,1,0,0,none_recognized,recognized_not_identifiable,0,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6 Luna,F,image_only,img_015.jpg,15,Vipers,Azemiops feae,Azemiops feae,,2,Micrurus sp.,Undetermined because species is unidentified,"Identification: Micrurus sp.  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Low
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The snake has a mostly black body with narrow orange-red crossbands, but the photograph is heavily out of focus across the body and head. The pale head could fit a coral snake, yet the image lacks clear diagnostic detail to confidently determine even the genus.",Micrurus,Micrurus,0,Low,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Luna,F,image_only,img_016.jpg,16,Colubrids,Zamenis situla,Zamenis situla,,2,Pituophis catenifer,Recognized but not identifiable,"Identification: Pituophis catenifer  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: Medium
+- Species: Low-Medium
+- Subspecies: N/A
+
+Visual evidence: The snake has a long, fairly slender body with dark-edged reddish-brown blotches on a pale ground and a narrow head with large crown plates, a pattern compatible with a gopher snake. The image does not provide geographic or sufficiently distinctive features to separate it confidently from other blotched snakes.",Pituophis catenifer,Pituophis catenifer,0,Medium,Low-Medium,N/A,0,1,0,0,0,recognized_not_identifiable,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Luna,F,image_only,img_017.jpg,17,Elapids,Acanthophis rugosus,Acanthophis rugosus,,2,Bothrops sp.,Undetermined because species is unidentified,"Identification: Bothrops sp.  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Low-Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The snake has a broad, somewhat triangular head, keeled scales, and a stout body with orange-brown crossbands and darker markings, consistent with a pit viper. The head lacks clearly visible diagnostic details, so I can’t reliably distinguish Bothrops from other similarly patterned vipers.",Bothrops,Bothrops,0,Low-Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Luna,F,image_only,img_018.jpg,18,Colubrids,Thelotornis capensis,Thelotornis capensis,,2,Naja sp.,Undetermined because species is unidentified,"Identification: Naja sp.  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Low-Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The snake is raising and flattening its neck into a hood, with a pale underside and dark markings on the expanded area, supporting a cobra identification. The head and body are too distant to distinguish the species reliably.",Naja,Naja,0,Low-Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Luna,F,image_only,img_019.jpg,19,Pythons,Malayopython timoriensis,Malayopython timoriensis,,2,Python bivittatus,No recognized subspecies,"Identification: Python bivittatus  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: Medium-High
+- Species: Medium
+- Subspecies: N/A
+
+Visual evidence: The snake is a large, heavy-bodied python with a tan-brown ground color and dark, irregular saddle-shaped blotches; its head is broad and marked with dark stripes. These features are consistent with a Burmese python, though the image does not show enough detail to exclude other large pythons confidently.",Python bivittatus,Python bivittatus,0,Medium-High,Medium,N/A,0,1,0,0,0,none_recognized,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Luna,F,image_only,img_020.jpg,20,Colubrids,Thamnophis sirtalis tetrataenia,Thamnophis sirtalis,Thamnophis sirtalis tetrataenia,3,_Thamnophis sirtalis parietalis_,Identified: _Thamnophis sirtalis parietalis_,"Identification: _Thamnophis sirtalis parietalis_  
+Subspecies status: Identified: _Thamnophis sirtalis parietalis_  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: Medium
+
+Visual evidence: The snake has the striped body pattern and keeled scales typical of _Thamnophis_, with vivid red-orange side markings against a blue-gray ground color, consistent with the red-sided garter snake. Similar color patterns occur in other _T. sirtalis_ subspecies, so the subspecies identification is less certain than the species.",Thamnophis sirtalis parietalis,Thamnophis sirtalis parietalis,0,High,Medium-High,Medium,1,1,1,1,0,identified,recognized_not_identifiable,0,correct species; wrong subspecies,0,0,1.5,2.0,
+GPT-6 Luna,F,image_only,img_021.jpg,21,Pythons,Aspidites ramsayi,Aspidites ramsayi,,2,_Aspidites ramsayi_,No recognized subspecies,"Identification: _Aspidites ramsayi_  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: Medium-High
+- Species: Medium
+
+Visual evidence: The snake has a small, blunt head and a robust body with faint, irregular brown crossbands, a pattern consistent with the woma python. The head details and scale features that would help distinguish it from other Australian pythons are not clearly visible.",Aspidites ramsayi,Aspidites ramsayi,0,Medium-High,Medium,,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6 Luna,F,image_only,img_022.jpg,22,Boas,Eryx jayakari,Eryx jayakari,,2,_Eryx_ sp.,Undetermined because species is unidentified,"Identification: _Eryx_ sp.  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The snake’s small, indistinct head, stout body, and short blunt tail are consistent with a sand boa. Its orange-brown blotched pattern is not enough to distinguish among similar species from this view.",Eryx,Eryx,0,Medium,N/A,N/A,1,0,0,0,0,undetermined,undetermined,1,genus only,0,0,1.0,1.0,
+GPT-6 Luna,F,image_only,img_023.jpg,23,Boas,Candoia paulsoni paulsoni,Candoia paulsoni,Candoia paulsoni paulsoni,3,_Corallus_ sp.,Undetermined because species is unidentified,"Identification: _Corallus_ sp.  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The snake is climbing and coiling around a tree, with a relatively slender body and a pale background marked by dark, irregular bands—features consistent with an arboreal boa in _Corallus_. The head and scale details are partly obscured, and the pattern alone does not securely distinguish among species.",Corallus,Corallus,0,Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Luna,F,image_only,img_024.jpg,24,Pythons,Leiopython albertisii,Leiopython albertisii,,2,_Aspidites melanocephalus_,No recognized subspecies,"Identification: _Aspidites melanocephalus_  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The snake’s glossy black head, pale yellow-gold forebody, and darker brown rear body match the distinctive coloration of the black-headed python. The head markings and body color transition are clearly visible.",Aspidites melanocephalus,Aspidites melanocephalus,0,High,High,N/A,0,1,0,0,0,none_recognized,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Luna,F,image_only,img_025.jpg,25,Colubrids,Thamnophis sirtalis infernalis,Thamnophis sirtalis,Thamnophis sirtalis infernalis,3,_Thamnophis sirtalis_,Recognized but not identifiable,"Identification: _Thamnophis sirtalis_  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The snake has the three pale longitudinal stripes and red lateral markings characteristic of _Thamnophis sirtalis_. The red head and vivid pattern suggest a western form, but the visible coloration alone does not securely distinguish among its subspecies.",Thamnophis sirtalis,Thamnophis sirtalis,0,High,High,N/A,1,1,1,0,0,recognized_not_identifiable,recognized_not_identifiable,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6 Luna,F,image_only,img_026.jpg,26,Vipers,Bitis nasicornis,Bitis nasicornis,,2,_Bothriechis schlegelii_,No recognized subspecies,"Identification: _Bothriechis schlegelii_  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The snake has prominent raised scales above the eyes that form the characteristic “eyelash” appearance, along with a broad triangular head and arboreal coiling posture. Its mottled coloration is highly variable in this species and is consistent with _Bothriechis schlegelii_.",Bothriechis schlegelii,Bothriechis schlegelii,0,High,High,N/A,0,1,0,0,0,none_recognized,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Luna,F,image_only,img_027.jpg,27,Vipers,Tropidolaemus wagleri,Tropidolaemus wagleri,,2,_Tropidolaemus wagleri_,No recognized subspecies,"Identification: _Tropidolaemus wagleri_  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: Medium
+- Species: Medium
+
+Visual evidence: The snake is stout-bodied and arboreal, with a broad triangular head and bold black-and-yellow patterning consistent with Wagler’s pit viper. The visible image does not clearly show the facial pit or other details that would make the identification more certain.",Tropidolaemus wagleri,Tropidolaemus wagleri,0,Medium,Medium,,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6 Luna,F,image_only,img_028.jpg,28,Boas,Eunectes notaeus,Eunectes notaeus,,2,_Eunectes_ sp.,Undetermined because species is unidentified,"Identification: _Eunectes_ sp.  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Medium-High
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The visible body is very thick and bears large, dark, irregular blotches on a yellow-olive background, a pattern consistent with an anaconda in _Eunectes_. The head is obscured, and the color pattern alone does not reliably distinguish among species in the genus.",Eunectes,Eunectes,0,Medium-High,N/A,N/A,1,0,0,0,0,undetermined,undetermined,1,genus only,0,0,1.0,1.0,
+GPT-6 Luna,F,image_only,img_029.jpg,29,Vipers,Protobothrops flavoviridis,Protobothrops flavoviridis,,2,_Morelia spilota_,Recognized but not identifiable,"Identification: _Morelia spilota_  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: Medium-High
+- Species: Medium
+
+Visual evidence: The snake’s robust body and high-contrast dark-and-pale pattern of irregular diamond-like markings are consistent with a diamond python in the _Morelia spilota_ complex. The head is partly obscured by coils, and without locality the pattern does not securely establish a subspecies.",Morelia spilota,Morelia spilota,0,Medium-High,Medium,,0,1,0,0,0,recognized_not_identifiable,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6 Luna,F,image_only,img_030.jpg,30,Elapids,Aspidelaps lubricus lubricus,Aspidelaps lubricus,Aspidelaps lubricus lubricus,3,_Naja_ sp.,Undetermined because species is unidentified,"Identification: _Naja_ sp.  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Medium
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The raised forebody and expanded neck are consistent with a cobra in _Naja_. The orange head and banded body are visible, but the hood pattern and other distinguishing details are not clear enough here to identify the species.",Naja,Naja,0,Medium,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6.1 Sol,G,image_only,img_001.png,1,Pythons,Simalia amethistina,Simalia amethistina,,2,Simalia,Undetermined because species is unidentified,"Identification: Simalia  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: High
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: Large, symmetrical head shields, a vertical pupil, and dark irregular markings on a golden-brown body support a scrub python of the genus Simalia. The visible pattern and head features do not reliably distinguish the similar species within this genus without geographic information.",Simalia,Simalia,0,High,N/A,N/A,1,0,0,0,0,undetermined,undetermined,1,genus only,0,0,1.0,1.0,
+GPT-6.1 Sol,G,image_only,img_002.jpg,2,Pythons,Morelia spilota spilota,Morelia spilota,Morelia spilota spilota,3,Morelia spilota spilota,Identified: Morelia spilota spilota,"Identification: Morelia spilota spilota  
+Subspecies status: Identified: Morelia spilota spilota  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: High
+
+Visual evidence: The black ground colour, dense cream-to-yellow speckling, and pale spots arranged into diamond-shaped clusters are characteristic of the diamond python. The broad head, distinct neck, and robust body also support this identification.",Morelia spilota spilota,Morelia spilota spilota,0,High,High,High,1,1,1,1,1,identified,identified,1,correct subspecies,0,0,3.0,3.0,
+GPT-6.1 Sol,G,image_only,img_003.jpg,3,Vipers,Agkistrodon taylori,Agkistrodon taylori,,2,Agkistrodon taylori,No recognized subspecies,"Identification: Agkistrodon taylori  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The stout body has strongly keeled scales and a black ground colour with orange-yellow markings outlining broad crossbands. Contrasting pale facial stripes and the vivid body pattern support Agkistrodon taylori, although related cantils can resemble it.",Agkistrodon taylori,Agkistrodon taylori,0,High,Medium-High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6.1 Sol,G,image_only,img_004.jpg,4,Vipers,Vipera kaznakovi,Vipera kaznakovi,,2,Protobothrops jerdonii,Recognized but not identifiable,"Identification: Protobothrops jerdonii  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: Medium-High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The strongly keeled body bears bold black markings alternating with orange-yellow patches, while the broad head has reddish sides and contrasting pale lip scales. This combination supports Protobothrops jerdonii, but the photograph alone does not establish a subspecies.",Protobothrops jerdonii,Protobothrops jerdonii,0,Medium-High,Medium-High,N/A,0,1,0,0,0,recognized_not_identifiable,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6.1 Sol,G,image_only,img_005.jpg,5,Boas,Corallus batesii,Corallus batesii,,2,Corallus caninus,No recognized subspecies,"Identification: Corallus caninus  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The green body has a prominent white dorsal stripe with branching crossbars, and the broad head bears deep pits along the yellow lips. These features support Corallus caninus, though the closely related Corallus batesii can show a similar appearance.",Corallus caninus,Corallus caninus,0,High,Medium-High,N/A,1,1,0,0,0,none_recognized,undetermined,0,correct genus; incorrect species,0,0,0.5,1.0,
+GPT-6.1 Sol,G,image_only,img_006.jpg,6,Elapids,Bungarus flaviceps baluensis,Bungarus flaviceps,Bungarus flaviceps baluensis,3,Oxyrhopus formosus,No recognized subspecies,"Identification: Oxyrhopus formosus  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: Medium-High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The yellow-gold head, black anterior body with pale scale margins, and red posterior body interrupted by black-and-white bands support Oxyrhopus formosus. The distribution of these colours is particularly informative, although related Oxyrhopus can have similar patterns.",Oxyrhopus formosus,Oxyrhopus formosus,0,Medium-High,Medium-High,N/A,0,1,0,0,0,none_recognized,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6.1 Sol,G,image_only,img_007.jpg,7,Elapids,Hemachatus haemachatus,Hemachatus haemachatus,,2,Naja,Undetermined because species is unidentified,"Identification: Naja  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: High
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The expanded hood and large head shields support a cobra of the genus Naja. The dark throat and belly, yellowish hood margins with black scales, and mottled body resemble several African Naja species; this view does not reliably distinguish them.",Naja,Naja,0,High,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6.1 Sol,G,image_only,img_008.jpg,8,Colubrids,Nerodia fasciata confluens,Nerodia fasciata,Nerodia fasciata confluens,3,Nerodia fasciata,Recognized but not identifiable,"Identification: Nerodia fasciata  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: Strongly keeled scales, broad dark crossbands separated by narrower orange-tan bands, and a dark stripe behind the eye support Nerodia fasciata. The photograph does not show enough diagnostic pattern detail to confidently assign a subspecies.",Nerodia fasciata,Nerodia fasciata,0,High,High,N/A,1,1,1,0,0,recognized_not_identifiable,recognized_not_identifiable,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6.1 Sol,G,image_only,img_009.jpg,9,Boas,Sanzinia madagascariensis,Sanzinia madagascariensis,,2,Sanzinia madagascariensis,No recognized subspecies,"Identification: Sanzinia madagascariensis  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The olive-green body bears dark blotches with pale centres, while the broad head has small scales and a dark stripe behind the eye. This combination supports Sanzinia madagascariensis; the related Sanzinia volontany is generally browner but can overlap in appearance.",Sanzinia madagascariensis,Sanzinia madagascariensis,0,High,Medium-High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6.1 Sol,G,image_only,img_010.jpg,10,Colubrids,Boiga melanota,Boiga melanota,,2,Boiga dendrophila,Recognized but not identifiable,"Identification: Boiga dendrophila  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The glossy black body with narrow yellow crossbars, vivid yellow lips separated by black sutures, and distinct head strongly support Boiga dendrophila. The visible banding alone does not reliably establish a subspecies.",Boiga dendrophila,Boiga melanota,1,High,High,N/A,1,1,1,0,0,recognized_not_identifiable,none_recognized,0,correct species; no validated subspecies,0,0,2.0,2.0,Former broad taxonomy: Boiga dendrophila / B. d. melanota accepted for B. melanota at species level; no extra subspecies point
+GPT-6.1 Sol,G,image_only,img_011.jpg,11,Elapids,Pseudechis porphyriacus,Pseudechis porphyriacus,,2,Pseudechis porphyriacus,No recognized subspecies,"Identification: Pseudechis porphyriacus  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The glossy black upper body, red lower flanks with dark scale markings, and black head continuous with the neck are characteristic of Pseudechis porphyriacus. The visible colour distribution strongly supports the red-bellied black snake.",Pseudechis porphyriacus,Pseudechis porphyriacus,0,High,High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6.1 Sol,G,image_only,img_012.jpg,12,Colubrids,Ptyas nigromarginata,Ptyas nigromarginata,,2,Ptyas nigromarginata,No recognized subspecies,"Identification: Ptyas nigromarginata  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The green anterior body has conspicuous black scale margins and transitions into a black posterior body and tail with pale longitudinal stripes. Together with the bronze-brown head and yellow throat, this pattern strongly supports Ptyas nigromarginata.",Ptyas nigromarginata,Ptyas nigromarginata,0,High,High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6.1 Sol,G,image_only,img_013.jpg,13,Elapids,Naja samarensis,Naja samarensis,,2,Naja,Undetermined because species is unidentified,"Identification: Naja  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: High
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The expanded hood, large head shields, and smooth body scales support Naja. The yellow ground colour with dark scale centres and broad dark throat patch resemble both Naja annulifera and Naja anchietae; the photograph does not provide a reliable distinction.",Naja,Naja,0,High,N/A,N/A,1,0,0,0,0,undetermined,undetermined,1,genus only,0,0,1.0,1.0,
+GPT-6.1 Sol,G,image_only,img_014.jpg,14,Elapids,Calliophis bivirgatus flaviceps,Calliophis bivirgatus,Calliophis bivirgatus flaviceps,3,Calliophis bivirgatus,Recognized but not identifiable,"Identification: Calliophis bivirgatus  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The bright red head and tail contrast with a dark blue-black body bearing vivid pale-blue lateral stripes. This distinctive combination strongly supports Calliophis bivirgatus, but the photograph alone does not reliably establish a subspecies.",Calliophis bivirgatus,Calliophis bivirgatus,0,High,High,N/A,1,1,1,0,0,recognized_not_identifiable,recognized_not_identifiable,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6.1 Sol,G,image_only,img_015.jpg,15,Vipers,Azemiops feae,Azemiops feae,,2,Azemiops kharini,No recognized subspecies,"Identification: Azemiops kharini  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The dark body with narrow orange crossbands and predominantly cream-coloured head strongly support Azemiops kharini. The pale head distinguishes it from the typically dark-headed Azemiops feae.",Azemiops kharini,Azemiops feae,1,High,High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,Azemiops kharini accepted as synonym under pilot policy
+GPT-6.1 Sol,G,image_only,img_016.jpg,16,Colubrids,Zamenis situla,Zamenis situla,,2,Zamenis leopardinus,No recognized subspecies,"Identification: Zamenis leopardinus  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The grey-tan body bears reddish, black-bordered dorsal blotches and smaller dark lateral spots. The bold dark head markings, including a bar between the eyes, further support Zamenis leopardinus.",Zamenis leopardinus,Zamenis leopardinus,0,High,High,N/A,1,1,0,0,0,none_recognized,undetermined,0,correct genus; incorrect species,1,0,0.0,0.5,"Fabricated name, -0.5 penalty: Zamenis leopardinus: unsupported combination (the historical name is Coluber leopardinus)"
+GPT-6.1 Sol,G,image_only,img_017.jpg,17,Elapids,Acanthophis rugosus,Acanthophis rugosus,,2,Acanthophis pyrrhus,No recognized subspecies,"Identification: Acanthophis pyrrhus  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The broad, flattened head, stout body, and abruptly slender tail with a pale tip are characteristic of Acanthophis. The reddish-orange colour, narrow crossbands, and conspicuously keeled scales support Acanthophis pyrrhus, although other reddish death adders can resemble it.",Acanthophis pyrrhus,Acanthophis pyrrhus,0,High,Medium-High,N/A,1,1,0,0,0,none_recognized,undetermined,0,correct genus; incorrect species,0,0,0.5,1.0,
+GPT-6.1 Sol,G,image_only,img_018.jpg,18,Colubrids,Thelotornis capensis,Thelotornis capensis,,2,Hydrodynastes gigas,No recognized subspecies,"Identification: Hydrodynastes gigas  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: Medium-High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The elongated head has a dark stripe through the eye and pale lips, while the expanded neck bears contrasting dark patches. The brown, irregularly banded body and relatively narrow hood support Hydrodynastes gigas.",Hydrodynastes gigas,Hydrodynastes gigas,0,Medium-High,Medium-High,N/A,0,1,0,0,0,none_recognized,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6.1 Sol,G,image_only,img_019.jpg,19,Pythons,Malayopython timoriensis,Malayopython timoriensis,,2,Simalia,Undetermined because species is unidentified,"Identification: Simalia  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: Medium-High
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The elongated head, yellow lips, and brown-gold body with irregular dark markings that fade toward the rear support a scrub python of the genus Simalia. The photograph does not reliably distinguish among similar species in the genus.",Simalia,Simalia,0,Medium-High,N/A,N/A,0,0,0,0,0,undetermined,undetermined,1,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6.1 Sol,G,image_only,img_020.jpg,20,Colubrids,Thamnophis sirtalis tetrataenia,Thamnophis sirtalis,Thamnophis sirtalis tetrataenia,3,Thamnophis sirtalis tetrataenia,Identified: Thamnophis sirtalis tetrataenia,"Identification: Thamnophis sirtalis tetrataenia  
+Subspecies status: Identified: Thamnophis sirtalis tetrataenia  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: Medium-High
+
+Visual evidence: The red head, pale blue-green dorsal stripe, long red stripes bordered by black, and blue lower flanks support Thamnophis sirtalis tetrataenia. The nearly continuous red striping is particularly characteristic, though other colourful Thamnophis sirtalis populations can resemble it.",Thamnophis sirtalis tetrataenia,Thamnophis sirtalis tetrataenia,0,High,High,Medium-High,1,1,1,1,1,identified,identified,1,correct subspecies,0,0,3.0,3.0,
+GPT-6.1 Sol,G,image_only,img_021.jpg,21,Pythons,Aspidites ramsayi,Aspidites ramsayi,,2,Aspidites ramsayi,No recognized subspecies,"Identification: Aspidites ramsayi  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The robust body has muted brown crossbands, while the rounded head and neck are yellow-brown without a black cap. This combination is characteristic of Aspidites ramsayi, the woma python.",Aspidites ramsayi,Aspidites ramsayi,0,High,High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6.1 Sol,G,image_only,img_022.jpg,22,Boas,Eryx jayakari,Eryx jayakari,,2,Eryx,Undetermined because species is unidentified,"Identification: Eryx  
+Subspecies status: Undetermined because species is unidentified  
+Confidence:
+
+- Genus: High
+- Species: N/A
+- Subspecies: N/A
+
+Visual evidence: The stout cylindrical body, small head scarcely distinct from the neck, tiny eyes, and short tail support a sand boa of the genus Eryx. The orange-brown and dark blotched pattern occurs in several species, and the photograph does not resolve the distinguishing scale details.",Eryx,Eryx,0,High,N/A,N/A,1,0,0,0,0,undetermined,undetermined,1,genus only,0,0,1.0,1.0,
+GPT-6.1 Sol,G,image_only,img_023.jpg,23,Boas,Candoia paulsoni paulsoni,Candoia paulsoni,Candoia paulsoni paulsoni,3,Morelia spilota,Recognized but not identifiable,"Identification: Morelia spilota  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The cream ground colour with irregular, dark-bordered brown markings, elongated head, and climbing posture support Morelia spilota. The pattern overlaps among carpet python subspecies, so a subspecies cannot be reliably assigned from this photograph.",Morelia spilota,Morelia spilota,0,High,Medium-High,N/A,0,1,0,0,0,recognized_not_identifiable,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6.1 Sol,G,image_only,img_024.jpg,24,Pythons,Leiopython albertisii,Leiopython albertisii,,2,Leiopython albertisii,No recognized subspecies,"Identification: Leiopython albertisii  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The black head, sharply contrasting white lip scales, and unpatterned golden-brown, iridescent body support Leiopython albertisii. Other white-lipped pythons share the facial markings, but the golden body favours this species.",Leiopython albertisii,Leiopython albertisii,0,High,Medium-High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6.1 Sol,G,image_only,img_025.jpg,25,Colubrids,Thamnophis sirtalis infernalis,Thamnophis sirtalis,Thamnophis sirtalis infernalis,3,Thamnophis sirtalis infernalis,Identified: Thamnophis sirtalis infernalis,"Identification: Thamnophis sirtalis infernalis  
+Subspecies status: Identified: Thamnophis sirtalis infernalis  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: Medium-High
+
+Visual evidence: The reddish head, pale dorsal stripe, and extensive red flank bars interrupted by black support Thamnophis sirtalis infernalis. Similar colour patterns occur in other Thamnophis sirtalis populations, so the subspecies identification remains somewhat tentative without locality.",Thamnophis sirtalis infernalis,Thamnophis sirtalis infernalis,0,High,High,Medium-High,1,1,1,1,1,identified,identified,1,correct subspecies,0,0,3.0,3.0,
+GPT-6.1 Sol,G,image_only,img_026.jpg,26,Vipers,Bitis nasicornis,Bitis nasicornis,,2,Bitis nasicornis,No recognized subspecies,"Identification: Bitis nasicornis  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: Multiple upright horn-like scales on the snout, a broad triangular head, and strongly keeled scales identify this as Bitis nasicornis. The intricate red-brown, yellow, blue-green, and dark geometric pattern is also characteristic.",Bitis nasicornis,Bitis nasicornis,0,High,High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6.1 Sol,G,image_only,img_027.jpg,27,Vipers,Tropidolaemus wagleri,Tropidolaemus wagleri,,2,Tropidolaemus wagleri,No recognized subspecies,"Identification: Tropidolaemus wagleri  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The broad triangular head, vertical pupils, and black body with narrow yellow bands and pale, black-edged lower flank scales are characteristic of an adult female Tropidolaemus wagleri. Yellow markings across the head and lips further support the identification.",Tropidolaemus wagleri,Tropidolaemus wagleri,0,High,High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6.1 Sol,G,image_only,img_028.jpg,28,Boas,Eunectes notaeus,Eunectes notaeus,,2,Eunectes notaeus,No recognized subspecies,"Identification: Eunectes notaeus  
+Subspecies status: No recognized subspecies  
+Confidence:
+
+- Genus: High
+- Species: Medium-High
+- Subspecies: N/A
+
+Visual evidence: The thick body has a vivid yellow ground colour with large dark dorsal blotches and smaller irregular lateral markings. The visible head stripes also support Eunectes notaeus, although the obscured body limits comparison with other patterned Eunectes species.",Eunectes notaeus,Eunectes notaeus,0,High,Medium-High,N/A,1,1,1,0,0,none_recognized,none_recognized,1,correct species; no validated subspecies,0,0,2.0,2.0,
+GPT-6.1 Sol,G,image_only,img_029.jpg,29,Vipers,Protobothrops flavoviridis,Protobothrops flavoviridis,,2,Morelia spilota,Recognized but not identifiable,"Identification: Morelia spilota  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The broad head with small crown scales, pale lips, and intricate black-and-cream body pattern support Morelia spilota. The blotches, pale-centred markings, and head stripes overlap among carpet python subspecies, preventing a reliable subspecies assignment.",Morelia spilota,Morelia spilota,0,High,High,N/A,0,1,0,0,0,recognized_not_identifiable,undetermined,0,wrong genus / non-answer,0,0,0.0,0.0,
+GPT-6.1 Sol,G,image_only,img_030.jpg,30,Elapids,Aspidelaps lubricus lubricus,Aspidelaps lubricus,Aspidelaps lubricus lubricus,3,Aspidelaps lubricus,Recognized but not identifiable,"Identification: Aspidelaps lubricus  
+Subspecies status: Recognized but not identifiable  
+Confidence:
+
+- Genus: High
+- Species: High
+- Subspecies: N/A
+
+Visual evidence: The enlarged rostral shield, orange head and body, narrow dark crossbands, and black throat markings support Aspidelaps lubricus. The photograph does not provide enough distinguishing detail to confidently assign a subspecies.",Aspidelaps lubricus,Aspidelaps lubricus,0,High,High,N/A,1,1,1,0,0,recognized_not_identifiable,recognized_not_identifiable,1,correct species; no validated subspecies,0,0,2.0,2.0,

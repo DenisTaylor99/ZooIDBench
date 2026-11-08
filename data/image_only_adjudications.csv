@@ -1,0 +1,12 @@
+﻿model_name,blind_label,image_id,ground_truth,raw_identification,adjudicated_identification,normalized_identification,score,adjudication_notes
+Claude Haiku 5.5,A,3,Agkistrodon taylori,"Crotalus? No. I cannot place this specimen with confidence. Tentatively assigned to a colubroid genus, but the photograph does not support a more specific identification.",,,0.0,"Explicit non-answer (""I cannot place this specimen"")"
+Claude Haiku 5.5,A,17,Acanthophis rugosus,"Unresolved at genus level. The specimen is tentatively placed in a broad colubroid or viperid group, but the photograph does not support a specific genus.",,,0.0,Unresolved at genus level
+GPT-6 Astra,B,10,Boiga melanota,Boiga dendrophila,Boiga dendrophila,Boiga melanota,2.0,Former broad taxonomy: Boiga dendrophila / B. d. melanota accepted for B. melanota at species level; no extra subspecies point
+GPT-6 Astra,B,15,Azemiops feae,Azemiops kharini,Azemiops kharini,Azemiops feae,2.0,Azemiops kharini accepted as synonym under pilot policy
+Claude Sonnet 5.5,D,2,Morelia spilota spilota,Morelia spilota (Diamond Python),Morelia spilota spilota,Morelia spilota spilota,3.0,Subspecies explicitly identified in status field
+Claude Sonnet 5.5,D,3,Agkistrodon taylori,Hypsiglena (formerly Bothrops) — correction: Bothriechis schlegelii is not supported; the most defensible identification is Bothriechis nigroviridis? No. Final: Bothrops (Bothriopsis) is not supported either. Final answer: Atropoides | Cerrophidion,Cerrophidion,Cerrophidion,0.0,Final restated identification after self-corrections
+Claude Sonnet 5.5,D,10,Boiga melanota,Boiga dendrophila,Boiga dendrophila,Boiga melanota,2.0,Former broad taxonomy: Boiga dendrophila / B. d. melanota accepted for B. melanota at species level; no extra subspecies point
+Claude Opus 5.5,E,10,Boiga melanota,_Boiga dendrophila_,Boiga dendrophila,Boiga melanota,2.0,Former broad taxonomy: Boiga dendrophila / B. d. melanota accepted for B. melanota at species level; no extra subspecies point
+GPT-6.1 Sol,G,10,Boiga melanota,Boiga dendrophila,Boiga dendrophila,Boiga melanota,2.0,Former broad taxonomy: Boiga dendrophila / B. d. melanota accepted for B. melanota at species level; no extra subspecies point
+GPT-6.1 Sol,G,15,Azemiops feae,Azemiops kharini,Azemiops kharini,Azemiops feae,2.0,Azemiops kharini accepted as synonym under pilot policy
+GPT-6.1 Sol,G,16,Zamenis situla,Zamenis leopardinus,Zamenis leopardinus,Zamenis leopardinus,0.0,"Fabricated name, -0.5 penalty: Zamenis leopardinus: unsupported combination (the historical name is Coluber leopardinus)"
