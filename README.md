@@ -40,7 +40,7 @@ The tested line-ups are **not balanced across families**. Both OpenAI and Anthro
 - [Reproducibility, data and code](docs/REPRODUCIBILITY.md)
 - [Image provenance and licenses](docs/IMAGE_SOURCES_AND_LICENSES.md)
 - [Original standardized prompts](docs/PROMPTS.md)
-- [Decisions and items requiring review](docs/DECISION_LOG.md)
+- [Decisions log](docs/DECISION_LOG.md)
 
 ## Repository contents
 
