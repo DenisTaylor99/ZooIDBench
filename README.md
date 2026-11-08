@@ -60,7 +60,7 @@ The tested line-ups are **not balanced across families**. Both OpenAI and Anthro
 
 - **Benchmark design, image selection, prompts, data collection, ground truth, and all adjudication decisions:** the author of this repository.
 - **Original scoring script and first analysis:** GPT-5.6 Sol (OpenAI), used as an assistant through ChatGPT.
-- **Review of the scoring script, bug fixes, re-scoring of both conditions, paired analysis, figure script and charts and documentation review:** Claude Opus 5.5 (Anthropic), used as an assistant through Claude.ai.
+- **Review of the scoring script, bug fixes, re-scoring of both conditions, paired analysis, figure script and charts, and documentation review:** Claude Opus 5.5 (Anthropic), used as an assistant through Claude.ai.
 - **Documentation drafts:** written with GPT-5.6 Sol and Claude Opus 5.5, then checked and edited by the author.
 
 **Assistant use note.** Both assistant model families are among the tested models, and the reviewing assistant, Claude Opus 5.5, is the same model as one of the seven tested. The assistant GPT-5.6 Sol is a different version from the tested GPT-6.1 Sol. To limit any possible bias:
@@ -69,7 +69,7 @@ The tested line-ups are **not balanced across families**. Both OpenAI and Anthro
 - adjudication decisions were made by the author, with model identities hidden behind letters A–G that were reshuffled between conditions;
 - all raw answers, adjudications and code are public, so anyone can check that no rule favours a particular model.
 
-**Responsibility note**. The author is not a programmer or herpetologist, and the scoring script was written entirely by AI assistants. The code may therefore contain mistakes, and some ground-truth identifications could be wrong. Any mistakes remain the author's responsibility.
+**Responsibility note**. The author is not a programmer or herpetologist, and the scripts were written entirely by AI assistants. The code may therefore contain mistakes, and some ground-truth identifications could be wrong. Any mistakes remain the author's responsibility.
 
 ## What the pilot does not establish
 
